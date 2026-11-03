@@ -1,0 +1,10093 @@
+window.RUNEWORD_DATA = {
+  "source": "https://www.d2r-reimagined.com/data/runewords",
+  "sourceUpdated": "2026-10-29T14:10:11Z",
+  "runewords": [
+    {
+      "id": 1,
+      "key": "Desire",
+      "name": "奢求之愿",
+      "englishName": "Desire",
+      "original": false,
+      "level": 13,
+      "runes": [
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "伤害強化 +30-50%",
+        "防御強化 +30-50%",
+        "所有属性 +5",
+        "物品生成为魔法或更高品质的几率 +20-25%",
+        "准确率 +100（武器）",
+        "+2 每次消灭恢复的法力（武器）",
+        "防御 +30（护甲）",
+        "+2 每次消灭恢复的法力（护甲）",
+        "防御 +30（盾牌）",
+        "+2 每次消灭恢复的法力（盾牌）"
+      ]
+    },
+    {
+      "id": 2,
+      "key": "Nadir",
+      "name": "天底",
+      "englishName": "Nadir",
+      "original": true,
+      "level": 13,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "防御強化 +50%",
+        "防御 +10",
+        "远程防御 +30",
+        "力量 +5",
+        "+2 每次消灭恢复的法力",
+        "怪物金币掉落 -33%",
+        "照亮范围 -3",
+        "等级 10 的 心灵视野（10/10 次充能）"
+      ]
+    },
+    {
+      "id": 3,
+      "key": "Steel1",
+      "name": "钢铁",
+      "englishName": "Steel",
+      "original": true,
+      "level": 13,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +25%",
+        "伤害強化 +20%",
+        "附加 6 - 9 点伤害",
+        "准确率 +50",
+        "+50% 几率撕裂伤口",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 4,
+      "key": "Scout",
+      "name": "巡林者",
+      "englishName": "Scout",
+      "original": false,
+      "level": 13,
+      "runes": [
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "+1 至静立闪避 (全职业)",
+        "移动速度 +10%",
+        "打击恢复速度 +10%",
+        "防御 +15",
+        "远程防御 +30",
+        "敏捷 +5",
+        "照亮范围 +11"
+      ]
+    },
+    {
+      "id": 5,
+      "key": "Old Ben's Walking Stick",
+      "name": "老班的拐杖",
+      "englishName": "Old Ben's Walking Stick",
+      "original": false,
+      "level": 13,
+      "runes": [
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放1级速度爆发",
+        "+1 至传送 (全职业)",
+        "移动速度 +100%",
+        "准确率 +50",
+        "每 10 秒流失 -7.5 点生命（基于角色等级）",
+        "+2 每次消灭恢复的法力",
+        "怪物金币掉落 -100%",
+        "物品生成为魔法或更高品质的几率 -100%"
+      ]
+    },
+    {
+      "id": 6,
+      "key": "Chance",
+      "name": "机会",
+      "englishName": "Chance",
+      "original": false,
+      "level": 15,
+      "runes": [
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "施法速度 +15%",
+        "格挡速度 +20%",
+        "15% 格挡几率提高",
+        "法力 +25",
+        "法力恢复 +10%",
+        "+2 每次消灭恢复的法力",
+        "+15% 受到的伤害转化为法力",
+        "怪物金币掉落 +75%",
+        "物品生成为魔法或更高品质的几率 +20-30%"
+      ]
+    },
+    {
+      "id": 7,
+      "key": "Malice",
+      "name": "怨恨",
+      "englishName": "Malice",
+      "original": true,
+      "level": 15,
+      "runes": [
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "伤害強化 +50%",
+        "最大伤害 +9",
+        "目标防御 - 25%",
+        "准确率 +50",
+        "击中窃取 +5% 生命",
+        "+100% 几率撕裂伤口",
+        "防止怪物自疗",
+        "-100 每一击降低的怪物防御",
+        "每 10 秒流失 -5 点生命",
+        "照亮范围 -1"
+      ]
+    },
+    {
+      "id": 8,
+      "key": "Penitence",
+      "name": "忏悔",
+      "englishName": "Penitence",
+      "original": false,
+      "level": 15,
+      "runes": [
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +15%",
+        "被冻结时效减半",
+        "中毒时间缩短 50%",
+        "+4 每次消灭恢复的法力",
+        "荆棘伤害 15点",
+        "+2 每次消灭恢复的法力（护甲）",
+        "+15% 受到的伤害转化为法力（护甲）",
+        "+2 每次消灭恢复的法力（盾牌）",
+        "+15% 受到的伤害转化为法力（盾牌）"
+      ]
+    },
+    {
+      "id": 9,
+      "key": "Stealth",
+      "name": "隐秘",
+      "englishName": "Stealth",
+      "original": true,
+      "level": 17,
+      "runes": [
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "移动速度 +25%",
+        "施法速度 +25%",
+        "打击恢复速度 +25%",
+        "敏捷 +6",
+        "法力恢复 +10%",
+        "毒素抗性 +30%",
+        "魔法伤害减免 3 点"
+      ]
+    },
+    {
+      "id": 10,
+      "key": "Umbral",
+      "name": "幽影",
+      "englishName": "Umbral",
+      "original": false,
+      "level": 17,
+      "runes": [
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "grimitype",
+          "name": "术士魔典"
+        }
+      ],
+      "properties": [
+        "+1 术士技能",
+        "移动速度 +20%",
+        "施法速度 +20%",
+        "打击恢复速度 +15%",
+        "防御強化 +100-150%",
+        "法力 +50-100",
+        "毒素抗性 +35%",
+        "+2 每次消灭恢复的法力",
+        "照亮范围 -4"
+      ]
+    },
+    {
+      "id": 11,
+      "key": "Jealousy",
+      "name": "嫉恨",
+      "englishName": "Jealousy",
+      "original": false,
+      "level": 18,
+      "runes": [
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "+3 至刺爆 (全职业)",
+        "+3 至近战精通 (全职业)",
+        "攻击速度 +20%",
+        "伤害強化 +122%",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "击中窃取 +7% 法力",
+        "击中窃取 +7% 生命",
+        "击杀生命恢复 +2"
+      ]
+    },
+    {
+      "id": 12,
+      "key": "Sting",
+      "name": "冷矢之锋",
+      "englishName": "Sting",
+      "original": false,
+      "level": 18,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "+3 至多重箭 (全职业)",
+        "+5 至冰冻箭 (全职业)",
+        "攻击速度 +15%",
+        "最大伤害 +25-40",
+        "目标防御 - 25%",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "击中窃取 +5-8% 法力",
+        "击退"
+      ]
+    },
+    {
+      "id": 13,
+      "key": "Leaf",
+      "name": "叶子",
+      "englishName": "Leaf",
+      "original": true,
+      "level": 19,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "+3 火焰技能",
+        "施法速度 +25-30%",
+        "附加 5 - 30 点火焰伤害",
+        "+2-3 到 炼狱之火 (法师专属)",
+        "+2-3 到 火焰弹 (法师专属)",
+        "+2-3 到 暖身术 (法师专属)",
+        "火焰抗性 +33%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 14,
+      "key": "Leaf",
+      "name": "叶子",
+      "englishName": "Leaf",
+      "original": true,
+      "level": 19,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+1 火焰技能",
+        "施法速度 +10-15%",
+        "附加 5 - 30 点火焰伤害",
+        "+1-2 到 炼狱之火 (法师专属)",
+        "+1-2 到 火焰弹 (法师专属)",
+        "+1-2 到 暖身术 (法师专属)",
+        "火焰抗性 +15%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 15,
+      "key": "Patience",
+      "name": "忍耐",
+      "englishName": "Patience",
+      "original": false,
+      "level": 19,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "移动速度 +15%",
+        "打击恢复速度 +20%",
+        "生命 +20-25",
+        "击杀生命恢复 +3-5",
+        "+2 每次消灭恢复的法力",
+        "+1-3% 获得的经验",
+        "附加 5 - 30 点火焰伤害（武器）",
+        "击退（武器）",
+        "击杀生命恢复 +2（武器）",
+        "远程防御 +30（护甲）",
+        "火焰抗性 +30%（护甲）",
+        "击杀生命恢复 +2（护甲）",
+        "远程防御 +30（盾牌）",
+        "火焰抗性 +35%（盾牌）",
+        "击杀生命恢复 +2（盾牌）"
+      ]
+    },
+    {
+      "id": 16,
+      "key": "Ancient's Pledge",
+      "name": "先祖之契",
+      "englishName": "Ancient's Pledge",
+      "original": false,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "防御強化 +50%",
+        "冰霜抗性 +30%",
+        "闪电抗性 +35%",
+        "所有抗性 +13%",
+        "火焰抗性 +35%",
+        "毒素抗性 +35%",
+        "+10% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 17,
+      "key": "Temptation",
+      "name": "诱惑",
+      "englishName": "Temptation",
+      "original": false,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "攻击速度 +20%",
+        "伤害強化 +125-180%",
+        "准确率 +50",
+        "附加 1 - 50 点闪电伤害",
+        "击退",
+        "法力 +50",
+        "-10% 获得的经验"
+      ]
+    },
+    {
+      "id": 18,
+      "key": "Youth",
+      "name": "青春",
+      "englishName": "Youth",
+      "original": false,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "9% 几率在击中时施放 4 级 削弱",
+        "防御強化 +90-120%",
+        "每 10 秒恢复 +8-10 点生命",
+        "法力恢复 +95%",
+        "冰霜抗性 +30-35%",
+        "闪电抗性 +30%",
+        "火焰抗性 +30-35%",
+        "毒素抗性 +30-35%"
+      ]
+    },
+    {
+      "id": 19,
+      "key": "Zephyr",
+      "name": "和风",
+      "englishName": "Zephyr",
+      "original": true,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "13% 几率在击中时施放 1 级 旋风魔",
+        "移动速度 +25%",
+        "攻击速度 +25%",
+        "伤害強化 +100%",
+        "目标防御 - 25%",
+        "准确率 +66",
+        "附加 1 - 50 点闪电伤害",
+        "防御 +25"
+      ]
+    },
+    {
+      "id": 20,
+      "key": "Spark",
+      "name": "火花",
+      "englishName": "Spark",
+      "original": false,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "+3 闪电技能 (法师专属)",
+        "施法速度 +25-30%",
+        "附加 1 - 50 点闪电伤害",
+        "+2-3 到 传送术 (法师专属)",
+        "+2-3 到 闪电新星 (法师专属)",
+        "+2-3 到 连锁闪电 (法师专属)",
+        "闪电抗性 +33%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 21,
+      "key": "Spark",
+      "name": "火花",
+      "englishName": "Spark",
+      "original": false,
+      "level": 21,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+1 闪电技能 (法师专属)",
+        "施法速度 +10-15%",
+        "附加 1 - 50 点闪电伤害",
+        "+1-2 到 传送术 (法师专属)",
+        "+1-2 到 闪电新星 (法师专属)",
+        "+1-2 到 连锁闪电 (法师专属)",
+        "闪电抗性 +15%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 22,
+      "key": "Knowledge",
+      "name": "知识",
+      "englishName": "Knowledge",
+      "original": false,
+      "level": 22,
+      "runes": [
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "攻击速度 +15%",
+        "伤害強化 +80-100%",
+        "最大伤害 +0.75（基于角色等级）",
+        "准确率 +150",
+        "+5-10% 获得的经验",
+        "+11 所需等级"
+      ]
+    },
+    {
+      "id": 23,
+      "key": "Distortion",
+      "name": "扭曲",
+      "englishName": "Distortion",
+      "original": false,
+      "level": 23,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "+1 至传送 (全职业)",
+        "移动速度 +3-5%",
+        "攻击速度 +6-10%",
+        "所有属性 +10-15",
+        "冰霜抗性 +30%",
+        "闪电抗性 +30%",
+        "所有抗性 +5-10%",
+        "+15% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 24,
+      "key": "Pattern",
+      "name": "典范",
+      "englishName": "Pattern",
+      "original": true,
+      "level": 23,
+      "runes": [
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "伤害強化 +40-80%",
+        "格挡速度 +30%",
+        "准确率加成 +10%",
+        "附加 12 - 32 点火焰伤害",
+        "附加 1 - 50 点闪电伤害",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "力量 +6",
+        "敏捷 +6",
+        "所有抗性 +15%"
+      ]
+    },
+    {
+      "id": 25,
+      "key": "Snowdrop",
+      "name": "雪花莲",
+      "englishName": "Snowdrop",
+      "original": false,
+      "level": 23,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "+3 冰霜技能 (法师专属)",
+        "施法速度 +25-30%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "+2-3 到 冰霜甲 (法师专属)",
+        "+2-3 到 冰川之枪 (法师专属)",
+        "+2-3 到 冰霜新星 (法师专属)",
+        "冰霜抗性 +33%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 26,
+      "key": "Snowdrop",
+      "name": "雪花莲",
+      "englishName": "Snowdrop",
+      "original": false,
+      "level": 23,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+1 冰霜技能 (法师专属)",
+        "施法速度 +10-15%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "+1-2 到 冰霜甲 (法师专属)",
+        "+1-2 到 冰川之枪 (法师专属)",
+        "+1-2 到 冰霜新星 (法师专属)",
+        "冰霜抗性 +15%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 27,
+      "key": "Holy Thunder",
+      "name": "神圣雷击",
+      "englishName": "Holy Thunder",
+      "original": true,
+      "level": 24,
+      "runes": [
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        }
+      ],
+      "types": [
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        }
+      ],
+      "properties": [
+        "伤害強化 +60%",
+        "最大伤害 +10",
+        "目标防御 - 25%",
+        "附加 5 - 30 点火焰伤害",
+        "附加 21 - 110 点闪电伤害",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "+3 到 神圣闪电 (圣骑专属)",
+        "闪电抗性上限 +5%",
+        "闪电抗性 +60%",
+        "等级 7 的 连锁闪电（60/60 次充能）"
+      ]
+    },
+    {
+      "id": 28,
+      "key": "Friendship",
+      "name": "友谊",
+      "englishName": "Friendship",
+      "original": false,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "伤害強化 +125-150%",
+        "附加 25 - 50 点伤害",
+        "击中窃取 +7% 生命",
+        "致命打击 +15%",
+        "消灭的怪物就此安息",
+        "+3% 获得的经验",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 29,
+      "key": "Edge",
+      "name": "边缘",
+      "englishName": "Edge",
+      "original": true,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "装备时获得15级荆棘光环光环",
+        "攻击速度 +35%",
+        "对恶魔的伤害 +320-380%",
+        "对亡灵的伤害 +280%",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "击中窃取 +7% 生命",
+        "防止怪物自疗",
+        "所有属性 +8-9",
+        "+2 每次消灭恢复的法力",
+        "所有商人的收费减少 15%"
+      ]
+    },
+    {
+      "id": 30,
+      "key": "King's Grace",
+      "name": "王者的慈悲",
+      "englishName": "King's Grace",
+      "original": true,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        }
+      ],
+      "properties": [
+        "伤害強化 +100%",
+        "准确率 +150",
+        "对恶魔的伤害 +100%",
+        "对恶魔的准确率 +100",
+        "对亡灵的伤害 +50%",
+        "对亡灵的准确率 +100",
+        "附加 5 - 30 点火焰伤害",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "击中窃取 +7% 生命"
+      ]
+    },
+    {
+      "id": 31,
+      "key": "Lightning",
+      "name": "闪电",
+      "englishName": "Lightning",
+      "original": false,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 1 级 弧光",
+        "装备时获得2级神圣闪电光环",
+        "攻击速度 +20%",
+        "伤害強化 +100-175%",
+        "附加 2 - 100 点闪电伤害",
+        "击中窃取 +7% 生命",
+        "闪电抗性 +35-50%",
+        "闪电伤害吸收 +8-10"
+      ]
+    },
+    {
+      "id": 32,
+      "key": "Nature's Kingdom",
+      "name": "自然王权",
+      "englishName": "Nature's Kingdom",
+      "original": false,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "druiitype",
+          "name": "德鲁伊物品"
+        }
+      ],
+      "properties": [
+        "+1 级 德鲁伊技能",
+        "施法速度 +20%",
+        "防御強化 +75-100%",
+        "所有属性 +10",
+        "每 10 秒恢复 +7 点生命",
+        "法力 +40-60",
+        "所有抗性 +20%",
+        "+15% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 33,
+      "key": "Serendipity",
+      "name": "机缘",
+      "englishName": "Serendipity",
+      "original": false,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "50% 几率在击中时施放 2 级 心灵视野",
+        "伤害強化 +120%",
+        "施法速度 +20%",
+        "击中窃取 +14% 生命",
+        "能量 +20",
+        "法力恢复 +50%"
+      ]
+    },
+    {
+      "id": 34,
+      "key": "Spirit1",
+      "name": "精神",
+      "englishName": "Spirit",
+      "original": true,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "施法速度 +25-35%",
+        "打击恢复速度 +15-25%",
+        "远程防御 +250",
+        "体能 +22",
+        "法力 +45-73",
+        "魔法伤害吸收 +3-8",
+        "附加 1 - 50 点闪电伤害（武器）",
+        "附加 3 - 14 点冰霜伤害（武器）",
+        "冰缓时间：3 秒（武器）",
+        "附加 61 - 61 点毒素伤害,时效 4 秒（武器）",
+        "击中窃取 +7% 生命（武器）",
+        "每 10 秒恢复 +7 点生命（盾牌）",
+        "冰霜抗性 +35%（盾牌）",
+        "闪电抗性 +35%（盾牌）",
+        "毒素抗性 +35%（盾牌）"
+      ]
+    },
+    {
+      "id": 35,
+      "key": "Strength",
+      "name": "力量",
+      "englishName": "Strength",
+      "original": true,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "伤害強化 +80-100%",
+        "击中窃取 +7% 生命",
+        "力量 +20",
+        "体能 +10",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 36,
+      "key": "Myth",
+      "name": "神话",
+      "englishName": "Myth",
+      "original": true,
+      "level": 25,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 1 级 嘲讽",
+        "25% 几率在被击中时施放 1 级 狂嗥",
+        "+2 野蛮人技能",
+        "远程防御 +30",
+        "每 10 秒恢复 +17 点生命",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 37,
+      "key": "Law",
+      "name": "律法",
+      "englishName": "Law",
+      "original": false,
+      "level": 26,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "攻击速度 +15%",
+        "伤害強化 +120-170%",
+        "消灭的怪物就此安息",
+        "所有属性 +15",
+        "生命 +48",
+        "法力 +24",
+        "+26 所需等级",
+        "需求降低 40%"
+      ]
+    },
+    {
+      "id": 38,
+      "key": "Revenge",
+      "name": "复仇之焰",
+      "englishName": "Revenge",
+      "original": false,
+      "level": 26,
+      "runes": [
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+1 魔法师技能",
+        "施法速度 +15%",
+        "法力 +50-75",
+        "法力恢复 +60-70%",
+        "魔法抗性 +5-10%",
+        "+1-3% 获得的经验",
+        "+3 所需等级",
+        "冰霜抗性 +30%（护甲）",
+        "击杀生命恢复 +2（护甲）",
+        "冰霜抗性 +35%（盾牌）",
+        "击杀生命恢复 +2（盾牌）"
+      ]
+    },
+    {
+      "id": 39,
+      "key": "Honor",
+      "name": "荣耀",
+      "englishName": "Honor",
+      "original": true,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "伤害強化 +160%",
+        "附加 9 - 9 点伤害",
+        "准确率 +250",
+        "击中窃取 +7% 生命",
+        "致命打击 +15%",
+        "力量 +10",
+        "每 10 秒恢复 +10 点生命",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 40,
+      "key": "Insight",
+      "name": "眼光",
+      "englishName": "Insight",
+      "original": true,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        },
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        },
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "装备时获得12-17级冥思光环光环",
+        "+1-6 至致命攻击 (全职业)",
+        "伤害強化 +200-260%",
+        "施法速度 +35%",
+        "最小伤害 +9",
+        "准确率加成 +180-250%",
+        "附加 5 - 30 点火焰伤害",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "所有属性 +5",
+        "+2 每次消灭恢复的法力",
+        "物品生成为魔法或更高品质的几率 +23%"
+      ]
+    },
+    {
+      "id": 41,
+      "key": "Lore",
+      "name": "学识",
+      "englishName": "Lore",
+      "original": true,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "能量 +10",
+        "闪电抗性 +30%",
+        "物理伤害减免 7 点",
+        "+2 每次消灭恢复的法力",
+        "照亮范围 +2"
+      ]
+    },
+    {
+      "id": 42,
+      "key": "Radiance",
+      "name": "光辉",
+      "englishName": "Radiance",
+      "original": true,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "防御強化 +75%",
+        "远程防御 +30",
+        "体能 +10",
+        "能量 +10",
+        "法力 +33",
+        "物理伤害减免 7 点",
+        "魔法伤害减免 3 点",
+        "+15% 受到的伤害转化为法力",
+        "照亮范围 +5"
+      ]
+    },
+    {
+      "id": 43,
+      "key": "Thirst",
+      "name": "渴望",
+      "englishName": "Thirst",
+      "original": false,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "伤害強化 +125-150%",
+        "最小伤害 +9",
+        "最大伤害 +1.5（基于角色等级）",
+        "附加 5 - 30 点火焰伤害",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "击杀生命恢复 +8-12",
+        "+2-5 每次消灭恢复的法力",
+        "+1-3% 获得的经验"
+      ]
+    },
+    {
+      "id": 44,
+      "key": "Truth",
+      "name": "真理之球",
+      "englishName": "Truth",
+      "original": false,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+1 魔法师技能",
+        "伤害強化 +100%",
+        "施法速度 +25%",
+        "附加 9 - 9 点伤害",
+        "法力 +35",
+        "法力恢复 +75%"
+      ]
+    },
+    {
+      "id": 45,
+      "key": "Empower",
+      "name": "赋能",
+      "englishName": "Empower",
+      "original": false,
+      "level": 27,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "barbitype",
+          "name": "野蛮人物品"
+        }
+      ],
+      "properties": [
+        "+1 野蛮人技能",
+        "移动速度 +25%",
+        "打击恢复速度 +25%",
+        "最大伤害 +10-15",
+        "击中窃取 +3-6% 法力",
+        "击中窃取 +3-6% 生命",
+        "生命 +50",
+        "每 10 秒恢复 +7 点生命",
+        "物理伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 46,
+      "key": "Authority",
+      "name": "权威",
+      "englishName": "Authority",
+      "original": true,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "2% 几率在被击中时施放 10 级 灵能护盾",
+        "10% 几率在击中时施放 15 级 瘴气锁链",
+        "+2 术士技能",
+        "伤害強化 +40-60%",
+        "打击恢复速度 +20%",
+        "火焰抗性 +30%",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 47,
+      "key": "Rhyme",
+      "name": "韵律",
+      "englishName": "Rhyme",
+      "original": true,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "格挡速度 +40%",
+        "20% 格挡几率提高",
+        "法力恢复 +10%",
+        "所有抗性 +25%",
+        "无法被冻结",
+        "怪物金币掉落 +50%",
+        "物品生成为魔法或更高品质的几率 +25%"
+      ]
+    },
+    {
+      "id": 48,
+      "key": "Sorrow",
+      "name": "悲痛",
+      "englishName": "Sorrow",
+      "original": false,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "攻击速度 +35%",
+        "伤害強化 +160-200%",
+        "击中窃取 +6% 法力",
+        "每 10 秒流失 -2 点生命",
+        "法力恢复 +50%",
+        "击杀生命恢复 +6-9",
+        "等级 20 的 黏土魔像（5/5 次充能）",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 49,
+      "key": "Whisper",
+      "name": "低语",
+      "englishName": "Whisper",
+      "original": false,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +45%",
+        "伤害強化 +100%",
+        "附加 25 - 75 点伤害",
+        "目标防御 - 15%",
+        "每 10 秒恢复 +6 点生命",
+        "需求降低 25%"
+      ]
+    },
+    {
+      "id": 50,
+      "key": "Peace",
+      "name": "平和",
+      "englishName": "Peace",
+      "original": true,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "2% 几率在击中时施放 15 级 女武神",
+        "4% 几率在被击中时施放 5 级 缓箭术",
+        "+2 亚马逊技能",
+        "+2 至致命攻击 (全职业)",
+        "打击恢复速度 +20%",
+        "每 10 秒恢复 +7 点生命",
+        "冰霜抗性 +30%"
+      ]
+    },
+    {
+      "id": 51,
+      "key": "Duriel's Fang",
+      "name": "都瑞尔毒牙",
+      "englishName": "Duriel's Fang",
+      "original": false,
+      "level": 29,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "knifitype",
+          "name": "小刀"
+        },
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "攻击速度 +15%",
+        "准确率 +50",
+        "毒素技能伤害 +10-15%",
+        "敌人毒素抗性 -5-8%",
+        "+2 每次消灭恢复的法力",
+        "毒系技能 +1-2"
+      ]
+    },
+    {
+      "id": 52,
+      "key": "Prayer",
+      "name": "祈祷圣徽",
+      "englishName": "Prayer",
+      "original": false,
+      "level": 30,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "装备时获得10-14级祈祷光环光环",
+        "攻击速度 +20%",
+        "20-30% 格挡几率提高",
+        "附加 10 - 30 点伤害",
+        "防御 +50-100",
+        "所有抗性 +15-25%",
+        "+7 所需等级",
+        "目标防御 - 25%（武器）",
+        "附加 3 - 14 点冰霜伤害（武器）",
+        "冰缓时间：3 秒（武器）",
+        "需求降低 20%（武器）",
+        "法力恢复 +10%（护甲）",
+        "冰霜抗性 +30%（护甲）",
+        "需求降低 15%（护甲）",
+        "法力恢复 +10%（盾牌）",
+        "冰霜抗性 +35%（盾牌）",
+        "需求降低 15%（盾牌）"
+      ]
+    },
+    {
+      "id": 53,
+      "key": "Beauty",
+      "name": "狩魂之美",
+      "englishName": "Beauty",
+      "original": false,
+      "level": 31,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "abowitype",
+          "name": "亚马逊弓"
+        }
+      ],
+      "properties": [
+        "+2-3 弓和弩技能 (亚马逊专属)",
+        "施法速度 +15%",
+        "附加 30 - 60 点伤害",
+        "无视目标防御",
+        "击中窃取 +8% 生命",
+        "+50% 几率撕裂伤口",
+        "击退",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 54,
+      "key": "Heaven's Will",
+      "name": "天堂意志",
+      "englishName": "Heaven's Will",
+      "original": false,
+      "level": 31,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "palaitype",
+          "name": "圣骑士物品"
+        }
+      ],
+      "properties": [
+        "+1 圣骑士技能",
+        "伤害強化 +30-50%",
+        "格挡速度 +30%",
+        "50% 格挡几率提高",
+        "消灭的怪物就此安息",
+        "+3 到 天堂之拳 (圣骑专属)",
+        "法力 +25",
+        "击杀生命恢复 +2"
+      ]
+    },
+    {
+      "id": 55,
+      "key": "Punishment",
+      "name": "惩罚",
+      "englishName": "Punishment",
+      "original": false,
+      "level": 31,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放35级雷电风暴",
+        "伤害強化 +135%",
+        "施法速度 +15%",
+        "附加 20 - 40 点伤害",
+        "附加 1 - 50 点闪电伤害",
+        "击中窃取 +7% 生命",
+        "所有属性 +20",
+        "每 10 秒流失 -3 点生命",
+        "物理伤害减免 15-20 点",
+        "-2% 获得的经验"
+      ]
+    },
+    {
+      "id": 56,
+      "key": "Vengeance",
+      "name": "复仇",
+      "englishName": "Vengeance",
+      "original": false,
+      "level": 31,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "100% 几率在死亡时施放25级疫爆",
+        "+1 级 刺客技能",
+        "施法速度 +15%",
+        "附加 35 - 70 点伤害",
+        "击中窃取 +6% 生命",
+        "击退",
+        "所有属性 +10",
+        "生命 +40"
+      ]
+    },
+    {
+      "id": 57,
+      "key": "Dread1",
+      "name": "恐惧",
+      "englishName": "Dread",
+      "original": false,
+      "level": 32,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "13% 几率在击中时施放 13 级 电能弹",
+        "移动速度 +20%",
+        "防御強化 +100-125%",
+        "防御 +15",
+        "力量 +0.5（基于角色等级）",
+        "敏捷 +0.5（基于角色等级）",
+        "法力 +25",
+        "击杀生命恢复 +6-8",
+        "+15% 受到的伤害转化为法力",
+        "+1 所需等级"
+      ]
+    },
+    {
+      "id": 58,
+      "key": "Hunger",
+      "name": "饥饿",
+      "englishName": "Hunger",
+      "original": false,
+      "level": 33,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "15-30% 格挡几率提高",
+        "击中窃取 +10% 生命",
+        "每 10 秒流失 -13 点生命",
+        "魔法抗性 +10-15%",
+        "所有抗性 +10-15%",
+        "物理伤害减免 +10-15%",
+        "+8 所需等级",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 59,
+      "key": "Black1",
+      "name": "黑锤",
+      "englishName": "Black",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "攻击速度 +20-30%",
+        "伤害強化 +120-150%",
+        "准确率 +200",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "致命打击 +20%",
+        "击退",
+        "体能 +10",
+        "魔法伤害减免 2 点",
+        "等级 30 的 尸爆（50/50 次充能）"
+      ]
+    },
+    {
+      "id": 60,
+      "key": "Bulwark",
+      "name": "壁垒",
+      "englishName": "Bulwark",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "击中窃取 +4-6% 生命",
+        "防御強化 +75-100%",
+        "体能 +10",
+        "生命上限 +5%",
+        "每 10 秒恢复 +30 点生命",
+        "物理伤害减免 +10-15%",
+        "物理伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 61,
+      "key": "Cure",
+      "name": "治愈",
+      "englishName": "Cure",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "装备时获得1级净化光环光环",
+        "打击恢复速度 +20%",
+        "防御強化 +75-100%",
+        "体能 +10",
+        "生命上限 +5%",
+        "毒素抗性 +40-60%",
+        "中毒时间缩短 50%"
+      ]
+    },
+    {
+      "id": 62,
+      "key": "Ground",
+      "name": "接地",
+      "englishName": "Ground",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "防御強化 +75-100%",
+        "体能 +10",
+        "生命上限 +5%",
+        "闪电抗性 +40-60%",
+        "闪电伤害吸收 +10-15%"
+      ]
+    },
+    {
+      "id": 63,
+      "key": "Hatred",
+      "name": "憎恨",
+      "englishName": "Hatred",
+      "original": false,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "伤害強化 +140-190%",
+        "对恶魔的伤害 +100-200%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "冻结目标",
+        "击退",
+        "体能 +10",
+        "物品生成为魔法或更高品质的几率 +50%"
+      ]
+    },
+    {
+      "id": 64,
+      "key": "Hearth",
+      "name": "火炉",
+      "englishName": "Hearth",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "防御強化 +75-100%",
+        "体能 +10",
+        "生命上限 +5%",
+        "冰霜抗性 +40-60%",
+        "冰霜伤害吸收 +10-15%",
+        "无法被冻结"
+      ]
+    },
+    {
+      "id": 65,
+      "key": "Holy Tears",
+      "name": "神圣之泪",
+      "englishName": "Holy Tears",
+      "original": false,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        }
+      ],
+      "properties": [
+        "16% 几率在击中时施放 9 级 天堂之拳",
+        "+5 至热忱打击 (全职业)",
+        "攻击速度 +35%",
+        "伤害強化 +160-200%",
+        "准确率加成 +35%",
+        "对恶魔的伤害 +300%",
+        "体能 +10",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 66,
+      "key": "Red1",
+      "name": "焰红",
+      "englishName": "Red",
+      "original": false,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "12% 几率在击中时施放 10 级 陨石术",
+        "伤害強化 +155%",
+        "附加 10 - 60 点火焰伤害",
+        "火焰技能伤害 +15-25%",
+        "体能 +10",
+        "冰霜抗性 -20%",
+        "火焰抗性 +35-50%",
+        "火焰伤害吸收 +10%",
+        "每 20 秒修复 1 点耐久度",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 67,
+      "key": "Shadow of Doubt",
+      "name": "疑虑之影",
+      "englishName": "Shadow of Doubt",
+      "original": false,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "wanditype",
+          "name": "魔杖"
+        }
+      ],
+      "properties": [
+        "+1-3 诅咒术 (死灵专属)",
+        "+1-3 毒素与骸骨技能 (死灵专属)",
+        "+1-3 召唤技能 (死灵专属)",
+        "施法速度 +30%",
+        "毒素技能伤害 +10%",
+        "体能 +10"
+      ]
+    },
+    {
+      "id": 68,
+      "key": "Temper",
+      "name": "和缓",
+      "englishName": "Temper",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "防御強化 +75-100%",
+        "体能 +10",
+        "生命上限 +5%",
+        "火焰抗性 +40-60%",
+        "火焰伤害吸收 +10-15%"
+      ]
+    },
+    {
+      "id": 69,
+      "key": "White",
+      "name": "苍白",
+      "englishName": "White",
+      "original": true,
+      "level": 35,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "wanditype",
+          "name": "魔杖"
+        }
+      ],
+      "properties": [
+        "+3 毒素与骸骨技能 (死灵专属)",
+        "施法速度 +20%",
+        "施法速度 +15%",
+        "+3 到 骸骨护甲 (死灵专属)",
+        "+2 到 骨矛 (死灵专属)",
+        "+4 到 骷髅精通 (死灵专属)",
+        "体能 +10",
+        "法力 +13",
+        "魔法伤害减免 4 点"
+      ]
+    },
+    {
+      "id": 70,
+      "key": "Madness",
+      "name": "狂乱之拥",
+      "englishName": "Madness",
+      "original": false,
+      "level": 36,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "9% 几率在被击中时施放 5 级 致命吸引",
+        "12% 几率在击中时施放 16 级 恐惧",
+        "+1 所有技能",
+        "攻击速度 +15%",
+        "格挡速度 +15%",
+        "生命 +35-50",
+        "+1 所需等级",
+        "体能 +10（护甲）",
+        "法力 +25（护甲）",
+        "法力恢复 +10%（护甲）",
+        "体能 +10（盾牌）",
+        "法力 +25（盾牌）",
+        "法力恢复 +10%（盾牌）"
+      ]
+    },
+    {
+      "id": 71,
+      "key": "Deception",
+      "name": "欺骗",
+      "englishName": "Deception",
+      "original": false,
+      "level": 37,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "+1 至传送 (全职业)",
+        "伤害強化 +165-205%",
+        "施法速度 +15%",
+        "打击恢复速度 +40%",
+        "最大伤害 +1（基于角色等级）",
+        "击中窃取 +8% 生命",
+        "火焰技能伤害 +15%",
+        "体能 +10",
+        "能量 +10",
+        "等级 18 的 陨石术（150/150 次充能）"
+      ]
+    },
+    {
+      "id": 72,
+      "key": "Memory",
+      "name": "记忆",
+      "englishName": "Memory",
+      "original": true,
+      "level": 37,
+      "runes": [
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "+3 魔法师技能",
+        "施法速度 +33%",
+        "最小伤害 +9",
+        "目标防御 - 25%",
+        "+3 到 能量护盾 (法师专属)",
+        "+2 到 静电力场 (法师专属)",
+        "防御強化 +50%",
+        "体能 +10",
+        "能量 +10",
+        "法力上限 +20%",
+        "魔法伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 73,
+      "key": "Smoke",
+      "name": "烟雾",
+      "englishName": "Smoke",
+      "original": true,
+      "level": 37,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "防御強化 +75%",
+        "远程防御 +280",
+        "能量 +10",
+        "所有抗性 +50%",
+        "照亮范围 -1",
+        "等级 6 的 削弱（18/18 次充能）"
+      ]
+    },
+    {
+      "id": 74,
+      "key": "Splendor",
+      "name": "璀灿",
+      "englishName": "Splendor",
+      "original": true,
+      "level": 37,
+      "runes": [
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "施法速度 +10%",
+        "格挡速度 +20%",
+        "防御強化 +60-100%",
+        "能量 +10",
+        "法力恢复 +10%",
+        "怪物金币掉落 +50%",
+        "物品生成为魔法或更高品质的几率 +20%",
+        "照亮范围 +3"
+      ]
+    },
+    {
+      "id": 75,
+      "key": "Harmony",
+      "name": "和谐",
+      "englishName": "Harmony",
+      "original": true,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "装备时获得10级活力光环光环",
+        "+2-6 至女武神 (全职业)",
+        "伤害強化 +200-275%",
+        "附加 9 - 9 点伤害",
+        "附加 55 - 160 点火焰伤害",
+        "附加 55 - 160 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "敏捷 +10",
+        "法力恢复 +20%",
+        "+2 每次消灭恢复的法力",
+        "等级 20 的 重生（25/25 次充能）"
+      ]
+    },
+    {
+      "id": 76,
+      "key": "Hysteria",
+      "name": "狂乱",
+      "englishName": "Hysteria",
+      "original": true,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+6 至移动闪避 (全职业)",
+        "移动速度 +65%",
+        "攻击速度 +40%",
+        "打击恢复速度 +20%",
+        "敏捷 +10",
+        "所有抗性 +10%",
+        "击杀生命恢复 +2"
+      ]
+    },
+    {
+      "id": 77,
+      "key": "Mania",
+      "name": "癫狂",
+      "englishName": "Mania",
+      "original": true,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "5% 几率在击中时施放 1 级 速度爆发",
+        "装备时获得1级狂热光环光环",
+        "攻击速度 +25%",
+        "伤害強化 +180-200%",
+        "敏捷 +10",
+        "击杀生命恢复 +2"
+      ]
+    },
+    {
+      "id": 78,
+      "key": "Melody",
+      "name": "旋律",
+      "englishName": "Melody",
+      "original": true,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "+3 弓和弩技能 (亚马逊专属)",
+        "攻击速度 +15%",
+        "伤害強化 +50%",
+        "对亡灵的伤害 +300%",
+        "+3 到 致命攻击 (亚马逊专属)",
+        "+3 到 静立闪避 (亚马逊专属)",
+        "+3 到 缓箭术 (亚马逊专属)",
+        "击退",
+        "敏捷 +10"
+      ]
+    },
+    {
+      "id": 79,
+      "key": "Pestilence",
+      "name": "毒瘟",
+      "englishName": "Pestilence",
+      "original": false,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +20%",
+        "伤害強化 +150-175%",
+        "最小伤害 +9",
+        "无视目标防御",
+        "毒素技能伤害 +10%",
+        "+3 到 毒性攻击 (死灵专属)",
+        "+3 到 剧毒齐射 (死灵专属)",
+        "敏捷 +10",
+        "体能 +10",
+        "毒系技能 +1"
+      ]
+    },
+    {
+      "id": 80,
+      "key": "Question",
+      "name": "天问",
+      "englishName": "Question",
+      "original": false,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "击退",
+        "力量 +0.75（基于角色等级）",
+        "敏捷 +0",
+        "敏捷 +0.75（基于角色等级）",
+        "体能 +0.75（基于角色等级）",
+        "能量 +0.75（基于角色等级）",
+        "怪物金币掉落 +2%（基于角色等级）",
+        "物品生成为魔法或更高品质的几率 +1.5%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 81,
+      "key": "Water",
+      "name": "流水",
+      "englishName": "Water",
+      "original": false,
+      "level": 39,
+      "runes": [
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放25级战斗命令",
+        "攻击速度 +15%",
+        "伤害強化 +175%",
+        "打击恢复速度 +25%",
+        "附加 33 - 122 点冰霜伤害",
+        "冰缓时间：6 秒",
+        "敏捷 +10",
+        "每 10 秒恢复 +3-5 点生命",
+        "法力恢复 +35%",
+        "火焰抗性 +50%",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 82,
+      "key": "Envy",
+      "name": "贪羡",
+      "englishName": "Envy",
+      "original": false,
+      "level": 41,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +30%",
+        "伤害強化 +222%",
+        "击中窃取 +6% 法力",
+        "击中窃取 +6% 生命",
+        "力量 +10",
+        "敏捷 +10",
+        "体能 +10",
+        "能量 +10",
+        "所有抗性 +25%",
+        "+2% 获得的经验",
+        "物品生成为魔法或更高品质的几率 +35%"
+      ]
+    },
+    {
+      "id": 83,
+      "key": "Lionheart",
+      "name": "狮子心",
+      "englishName": "Lionheart",
+      "original": true,
+      "level": 41,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "伤害強化 +50%",
+        "力量 +25",
+        "敏捷 +15",
+        "体能 +20",
+        "能量 +10",
+        "生命 +50",
+        "所有抗性 +30%",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 84,
+      "key": "Obedience",
+      "name": "遵从",
+      "englishName": "Obedience",
+      "original": true,
+      "level": 41,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "30% 几率在消灭一名敌人时施放21级火焰附魔",
+        "伤害強化 +200-250%",
+        "打击恢复速度 +40%",
+        "目标防御 - 25%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "敌人火焰抗性 -25%",
+        "致命打击 +20%",
+        "防御 +200-300",
+        "力量 +10",
+        "敏捷 +10",
+        "所有抗性 +20-30%",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 85,
+      "key": "Unbending Will",
+      "name": "不屈之志",
+      "englishName": "Unbending Will",
+      "original": true,
+      "level": 41,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "18% 几率在击中时施放 18 级 嘲讽",
+        "+2-3 战斗本能 (野蛮人专属)",
+        "攻击速度 +20-30%",
+        "伤害強化 +300%",
+        "最大伤害 +9",
+        "准确率 +50",
+        "击中窃取 +8-10% 生命",
+        "防止怪物自疗",
+        "力量 +10",
+        "体能 +10",
+        "物理伤害减免 8 点",
+        "击杀生命恢复 +2",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 86,
+      "key": "Lawbringer",
+      "name": "执法者",
+      "englishName": "Lawbringer",
+      "original": true,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "20% 几率在击中时施放 15 级 衰老",
+        "装备时获得18级庇护光环光环",
+        "目标防御 - 50%",
+        "附加 150 - 220 点火焰伤害",
+        "附加 130 - 180 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "击中窃取 +7% 生命",
+        "消灭的怪物就此安息",
+        "远程防御 +200-250",
+        "敏捷 +10",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 87,
+      "key": "Passion",
+      "name": "热情",
+      "englishName": "Passion",
+      "original": true,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "+1 至热忱打击 (全职业)",
+        "+1 至狂暴之击 (全职业)",
+        "攻击速度 +25%",
+        "伤害強化 +160-210%",
+        "施法速度 +15%",
+        "准确率加成 +50-80%",
+        "附加 1 - 50 点闪电伤害",
+        "命中可致盲目标",
+        "击杀生命恢复 +2",
+        "怪物金币掉落 +75%",
+        "等级 3 的 狼獾之心（12/12 次充能）"
+      ]
+    },
+    {
+      "id": 88,
+      "key": "Piety",
+      "name": "虔诚",
+      "englishName": "Piety",
+      "original": false,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "施法速度 +20%",
+        "打击恢复速度 +20%",
+        "防御強化 +90-125%",
+        "远程防御 +30",
+        "能量 +20",
+        "法力 +1（基于角色等级）",
+        "魔法抗性 +15-25%",
+        "所有抗性 +15-25%",
+        "怪物金币掉落 +50%"
+      ]
+    },
+    {
+      "id": 89,
+      "key": "Tempest",
+      "name": "狂澜",
+      "englishName": "Tempest",
+      "original": false,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "+1-2 陷阱技能 (刺客专属)",
+        "伤害強化 +140-190%",
+        "附加 100 - 200 点火焰伤害",
+        "附加 2 - 350 点闪电伤害",
+        "附加 30 - 70 点冰霜伤害",
+        "闪电技能伤害 +10-15%",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 90,
+      "key": "Treachery",
+      "name": "背信",
+      "englishName": "Treachery",
+      "original": true,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "25% 几率在击中时施放 15 级 涂毒",
+        "5% 几率在被击中时施放 15 级 影散",
+        "+2 级 刺客技能",
+        "攻击速度 +45%",
+        "打击恢复速度 +20%",
+        "冰霜抗性 +30%",
+        "怪物金币掉落 +50%"
+      ]
+    },
+    {
+      "id": 91,
+      "key": "Voice of Reason",
+      "name": "理智之声",
+      "englishName": "Voice of Reason",
+      "original": true,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 13 级 冰封球",
+        "18% 几率在击中时施放 20 级 寒冰球",
+        "准确率 +50",
+        "对恶魔的伤害 +220-350%",
+        "对亡灵的伤害 +280-300%",
+        "附加 100 - 220 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "敌人冰霜抗性 -24%",
+        "敏捷 +10",
+        "无法被冻结",
+        "击杀生命恢复 +2",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 92,
+      "key": "Wealth",
+      "name": "财富",
+      "englishName": "Wealth",
+      "original": true,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "敏捷 +10",
+        "+2 每次消灭恢复的法力",
+        "怪物金币掉落 +300%",
+        "物品生成为魔法或更高品质的几率 +100%"
+      ]
+    },
+    {
+      "id": 93,
+      "key": "Rimewind",
+      "name": "霜寒之风",
+      "englishName": "Rimewind",
+      "original": false,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "+1-2 陷阱技能 (刺客专属)",
+        "伤害強化 +140-190%",
+        "附加 100 - 200 点火焰伤害",
+        "附加 1 - 300 点闪电伤害",
+        "附加 30 - 70 点冰霜伤害",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "冰霜技能伤害 +10-15%",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 94,
+      "key": "Wildfire",
+      "name": "燎原烈火",
+      "englishName": "Wildfire",
+      "original": false,
+      "level": 43,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "+1-2 陷阱技能 (刺客专属)",
+        "伤害強化 +140-190%",
+        "附加 105 - 230 点火焰伤害",
+        "附加 1 - 300 点闪电伤害",
+        "附加 30 - 70 点冰霜伤害",
+        "火焰技能伤害 +10-15%",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 95,
+      "key": "Love",
+      "name": "炽爱之弦",
+      "englishName": "Love",
+      "original": false,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "abowitype",
+          "name": "亚马逊弓"
+        }
+      ],
+      "properties": [
+        "+2 亚马逊技能",
+        "攻击速度 +40%",
+        "伤害強化 +200%",
+        "准确率 +50",
+        "附加 5 - 15 点火焰伤害",
+        "附加 5 - 15 点闪电伤害",
+        "附加 5 - 15 点冰霜伤害",
+        "火焰技能伤害 +15-20%",
+        "致命打击 +15%",
+        "生命 +75",
+        "法力 +50",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 96,
+      "key": "Shadow1",
+      "name": "暗影",
+      "englishName": "Shadow",
+      "original": false,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "5% 几率在被击中时施放 12 级 昏暗视野",
+        "移动速度 +50%",
+        "攻击速度 +15%",
+        "伤害強化 +166%",
+        "最小伤害 +18",
+        "附加 5 - 15 点火焰伤害",
+        "附加 5 - 15 点闪电伤害",
+        "附加 85 - 155 点冰霜伤害",
+        "等级 10 的 骨墙（50/50 次充能）",
+        "冰缓时间：3-10.24 秒"
+      ]
+    },
+    {
+      "id": 97,
+      "key": "Thunder",
+      "name": "奔雷",
+      "englishName": "Thunder",
+      "original": false,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "10% 几率在被击中时施放 22 级 雷电风暴",
+        "+1 至静电力场 (全职业)",
+        "伤害強化 +235%",
+        "附加 5 - 15 点火焰伤害",
+        "附加 6 - 459 点闪电伤害",
+        "附加 5 - 15 点冰霜伤害",
+        "力量 +10",
+        "敏捷 +10",
+        "冰霜抗性 -25%",
+        "闪电抗性 +75%",
+        "+2% 获得的经验",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 98,
+      "key": "War",
+      "name": "战争",
+      "englishName": "War",
+      "original": false,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "攻击速度 +30%",
+        "伤害強化 +35-50%",
+        "打击恢复速度 +25%",
+        "无视目标防御",
+        "防止怪物自疗",
+        "防御強化 +100-140%",
+        "体能 +10",
+        "物理伤害减免 +20-25%",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 99,
+      "key": "Wisdom",
+      "name": "智慧",
+      "englishName": "Wisdom",
+      "original": true,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "穿透攻击 +33%",
+        "准确率加成 +15-25%",
+        "击中窃取 +4-8% 法力",
+        "防御強化 +30%",
+        "能量 +10",
+        "无法被冻结",
+        "+5 每次消灭恢复的法力",
+        "击杀生命恢复 +2",
+        "+15% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 100,
+      "key": "Enlightenment",
+      "name": "教化",
+      "englishName": "Enlightenment",
+      "original": true,
+      "level": 45,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 15 级 火球术",
+        "10% 几率在被击中时施放 15 级 炽烈之径",
+        "+2 魔法师技能",
+        "+1 至暖身术 (全职业)",
+        "防御強化 +30%",
+        "火焰抗性 +30%",
+        "物理伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 101,
+      "key": "Fortune's Favor",
+      "name": "鸿运之赐",
+      "englishName": "Fortune's Favor",
+      "original": false,
+      "level": 46,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "生命 +30-50",
+        "所有抗性 +10%",
+        "怪物金币掉落 +200%",
+        "物品生成为魔法或更高品质的几率 +2%（基于角色等级）",
+        "+5 所需等级",
+        "力量 +10（武器）",
+        "体能 +10（武器）",
+        "力量 +10（护甲）",
+        "体能 +10（护甲）",
+        "力量 +10（盾牌）",
+        "体能 +10（盾牌）"
+      ]
+    },
+    {
+      "id": 102,
+      "key": "Crescent Moon",
+      "name": "新月",
+      "englishName": "Crescent Moon",
+      "original": true,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "5% 几率在击中时施放 13 级 静电力场",
+        "20% 几率在击中时施放 17 级 连锁闪电",
+        "攻击速度 +15%",
+        "伤害強化 +180-220%",
+        "无视目标防御",
+        "敌人闪电抗性 -35%",
+        "+20% 几率撕裂伤口",
+        "魔法伤害吸收 +9-11",
+        "+2 每次消灭恢复的法力",
+        "等级 18 的 召唤风狼（30/30 次充能）"
+      ]
+    },
+    {
+      "id": 103,
+      "key": "Duress",
+      "name": "強制",
+      "englishName": "Duress",
+      "original": true,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "伤害強化 +30-50%",
+        "打击恢复速度 +40%",
+        "附加 37 - 133 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "致命打击 +25%",
+        "+33% 几率撕裂伤口",
+        "防御強化 +150-200%",
+        "冰霜抗性 +30%",
+        "所有抗性 +20%"
+      ]
+    },
+    {
+      "id": 104,
+      "key": "Gloom",
+      "name": "幽暗",
+      "englishName": "Gloom",
+      "original": true,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "10% 几率在被击中时施放 3 级 昏暗视野",
+        "12% 几率在被击中时施放 1 级 疫爆",
+        "打击恢复速度 +10%",
+        "防御強化 +200-260%",
+        "力量 +10",
+        "所有抗性 +50%",
+        "被冻结时效减半",
+        "照亮范围 -3"
+      ]
+    },
+    {
+      "id": 105,
+      "key": "Judgement",
+      "name": "圣裁之盾",
+      "englishName": "Judgement",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "palaitype",
+          "name": "圣骑士物品"
+        }
+      ],
+      "properties": [
+        "11% 几率在被击中时施放 35 级 天堂之拳",
+        "25% 几率在被击中时施放 5 级 衰老",
+        "+2 圣骑士技能",
+        "25-35% 格挡几率提高",
+        "最大伤害 +20-30",
+        "无视目标防御",
+        "所有抗性 +40%",
+        "魔法伤害减免 35-50 点",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 106,
+      "key": "Oblivion",
+      "name": "碎忆之遗忘",
+      "englishName": "Oblivion",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        }
+      ],
+      "types": [
+        {
+          "code": "barbitype",
+          "name": "野蛮人物品"
+        }
+      ],
+      "properties": [
+        "12% 几率在击中时施放 9 级 伤害加深",
+        "+2 野蛮人技能",
+        "攻击速度 +20%",
+        "+15% 几率撕裂伤口",
+        "+3 随机 野蛮人 技能",
+        "防御強化 +115-160%",
+        "力量 +10",
+        "敏捷 +10",
+        "生命 +1.5（基于角色等级）",
+        "所有抗性 +20%"
+      ]
+    },
+    {
+      "id": 107,
+      "key": "Pillar of Faith",
+      "name": "信仰之柱",
+      "englishName": "Pillar of Faith",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "装备时获得12级净化光环光环",
+        "攻击速度 +20%",
+        "伤害強化 +230%",
+        "击中窃取 +7% 生命",
+        "+20% 几率撕裂伤口",
+        "防御 +400-500",
+        "力量 +20",
+        "生命 +75",
+        "火焰伤害吸收 +15%",
+        "每 20 秒修复 1 点耐久度"
+      ]
+    },
+    {
+      "id": 108,
+      "key": "Stone1",
+      "name": "石块",
+      "englishName": "Stone",
+      "original": true,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +60%",
+        "防御強化 +250-290%",
+        "远程防御 +300",
+        "力量 +16",
+        "体能 +16",
+        "能量 +10",
+        "所有抗性 +20%",
+        "等级 16 的 黏土魔像（16/16 次充能）",
+        "等级 16 的 熔岩巨石（80/80 次充能）"
+      ]
+    },
+    {
+      "id": 109,
+      "key": "Bone1",
+      "name": "白骨",
+      "englishName": "Bone",
+      "original": true,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 10 级 骨矛",
+        "15% 几率在被击中时施放 10 级 骸骨护甲",
+        "+2 死灵法师技能",
+        "法力 +100-150",
+        "所有抗性 +40%",
+        "物理伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 110,
+      "key": "Searing Moon",
+      "name": "炎月",
+      "englishName": "Searing Moon",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 13 级 陨石术",
+        "20% 几率在击中时施放 17 级 火球术",
+        "攻击速度 +15%",
+        "伤害強化 +180-220%",
+        "无视目标防御",
+        "附加 5 - 30 点火焰伤害",
+        "敌人火焰抗性 -35%",
+        "+20% 几率撕裂伤口",
+        "魔法伤害吸收 +9-11",
+        "等级 18 的 召唤风狼（30/30 次充能）"
+      ]
+    },
+    {
+      "id": 111,
+      "key": "Winter Moon",
+      "name": "冬月",
+      "englishName": "Winter Moon",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 13 级 暴风雪",
+        "20% 几率在击中时施放 17 级 冰川之枪",
+        "攻击速度 +15%",
+        "伤害強化 +180-220%",
+        "无视目标防御",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "敌人冰霜抗性 -35%",
+        "+20% 几率撕裂伤口",
+        "魔法伤害吸收 +9-11",
+        "等级 18 的 召唤风狼（30/30 次充能）"
+      ]
+    },
+    {
+      "id": 112,
+      "key": "Harvest Moon",
+      "name": "丰收月",
+      "englishName": "Harvest Moon",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r07",
+          "name": "塔尔符文",
+          "number": 7
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 13 级 尸爆",
+        "20% 几率在击中时施放 17 级 剧毒新星",
+        "攻击速度 +15%",
+        "伤害強化 +180-220%",
+        "无视目标防御",
+        "附加 61 - 61 点毒素伤害,时效 4 秒",
+        "敌人毒素抗性 -35%",
+        "+20% 几率撕裂伤口",
+        "魔法伤害吸收 +9-11",
+        "等级 18 的 召唤风狼（30/30 次充能）"
+      ]
+    },
+    {
+      "id": 113,
+      "key": "Demonspine",
+      "name": "恶魔脊骨",
+      "englishName": "Demonspine",
+      "original": false,
+      "level": 47,
+      "runes": [
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "grimitype",
+          "name": "术士魔典"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 30 级 邪咒：净化",
+        "+1 术士技能",
+        "攻击速度 +20-25%",
+        "伤害強化 +50-100%",
+        "对恶魔的伤害 +50-100%",
+        "防御 +100-200",
+        "所有抗性 +20%",
+        "物理伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 114,
+      "key": "Voice",
+      "name": "共鸣之声",
+      "englishName": "Voice",
+      "original": false,
+      "level": 48,
+      "runes": [
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "冰霜技能伤害 +10-15%",
+        "火焰技能伤害 +10-15%",
+        "闪电技能伤害 +10-15%",
+        "法力 +1（基于角色等级）",
+        "所有抗性 +7-10%",
+        "+1 所需等级",
+        "每 10 秒恢复 +7 点生命（护甲）",
+        "所有抗性 +20%（护甲）",
+        "+15% 受到的伤害转化为法力（护甲）",
+        "需求降低 15%（护甲）",
+        "每 10 秒恢复 +7 点生命（盾牌）",
+        "所有抗性 +20%（盾牌）",
+        "+15% 受到的伤害转化为法力（盾牌）",
+        "需求降低 15%（盾牌）"
+      ]
+    },
+    {
+      "id": 115,
+      "key": "Blood1",
+      "name": "鲜血",
+      "englishName": "Blood",
+      "original": false,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "伤害強化 +150-200%",
+        "防御 +125-175",
+        "生命上限 +10-15%",
+        "物理伤害减免 +10-15%",
+        "攻击速度 +15%（武器）",
+        "防止怪物自疗（武器）",
+        "格挡速度 +20%（盾牌）",
+        "魔法伤害减免 7 点（盾牌）"
+      ]
+    },
+    {
+      "id": 116,
+      "key": "Lust",
+      "name": "欲孽",
+      "englishName": "Lust",
+      "original": false,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "wanditype",
+          "name": "魔杖"
+        }
+      ],
+      "properties": [
+        "装备时获得8级神圣闪电光环",
+        "+2 死灵法师技能",
+        "攻击速度 +15%",
+        "防止怪物自疗",
+        "法力上限 +35%",
+        "所有抗性 +35-50%",
+        "+5% 获得的经验",
+        "怪物金币掉落 +80-120%",
+        "物品生成为魔法或更高品质的几率 +40%"
+      ]
+    },
+    {
+      "id": 117,
+      "key": "Oath",
+      "name": "誓言",
+      "englishName": "Oath",
+      "original": true,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "30% 几率在击中时施放 20 级 骸骨之魂",
+        "永不毁损",
+        "攻击速度 +45%",
+        "伤害強化 +200-230%",
+        "附加 5 - 15 点火焰伤害",
+        "附加 5 - 15 点闪电伤害",
+        "附加 5 - 15 点冰霜伤害",
+        "防止怪物自疗",
+        "能量 +10",
+        "魔法伤害吸收 +10-15",
+        "等级 16 的 狼獾之心（20/20 次充能）",
+        "等级 17 的 钢铁魔像（14/14 次充能）"
+      ]
+    },
+    {
+      "id": 118,
+      "key": "Prudence",
+      "name": "谨慎",
+      "englishName": "Prudence",
+      "original": true,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +25%",
+        "防御強化 +140-170%",
+        "所有抗性 +25-35%",
+        "物理伤害减免 3 点",
+        "魔法伤害减免 17 点",
+        "+2 每次消灭恢复的法力",
+        "照亮范围 +1",
+        "每 25 秒修复 1 点耐久度"
+      ]
+    },
+    {
+      "id": 119,
+      "key": "Rain",
+      "name": "降雨",
+      "englishName": "Rain",
+      "original": true,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "11% 几率在击中时施放 15 级 旋风术",
+        "5% 几率在被击中时施放 15 级 气旋护甲",
+        "+2 级 德鲁伊技能",
+        "法力 +100-150",
+        "闪电抗性 +30%",
+        "魔法伤害减免 7 点",
+        "+15% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 120,
+      "key": "Sanctuary",
+      "name": "庇护",
+      "englishName": "Sanctuary",
+      "original": true,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "打击恢复速度 +20%",
+        "格挡速度 +20%",
+        "20% 格挡几率提高",
+        "防御強化 +130-160%",
+        "远程防御 +250",
+        "敏捷 +20",
+        "所有抗性 +50-70%",
+        "魔法伤害减免 7 点",
+        "等级 12 的 缓箭术（60/60 次充能）"
+      ]
+    },
+    {
+      "id": 121,
+      "key": "Terror",
+      "name": "恐惧",
+      "englishName": "Terror",
+      "original": false,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "necritype",
+          "name": "死灵法师物品"
+        }
+      ],
+      "properties": [
+        "100% 几率在被击中时施放 10 级 恐惧",
+        "+2 死灵法师技能",
+        "+3 至狂热光环 (全职业)",
+        "施法速度 +25%",
+        "+4 随机 死灵法师 技能",
+        "防御 +1.5（基于角色等级）",
+        "能量 +10",
+        "魔法伤害减免 7 点",
+        "物品生成为魔法或更高品质的几率 +1%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 122,
+      "key": "Full Moon",
+      "name": "满月",
+      "englishName": "Full Moon",
+      "original": false,
+      "level": 49,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "20% 几率在击中时施放 20 级 祝福之锤",
+        "15% 几率在击中时施放 20 级 骨矛",
+        "装备时获得10级庇护光环光环",
+        "攻击速度 +15%",
+        "伤害強化 +180-220%",
+        "无视目标防御",
+        "+20% 几率撕裂伤口",
+        "防止怪物自疗",
+        "魔法伤害吸收 +9-11",
+        "等级 18 的 召唤风狼（30/30 次充能）"
+      ]
+    },
+    {
+      "id": 123,
+      "key": "Delirium",
+      "name": "精神错乱",
+      "englishName": "Delirium",
+      "original": true,
+      "level": 51,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "11% 几率在击中时施放 18 级 致命吸引",
+        "14% 几率在被击中时施放 13 级 恐惧",
+        "12% 几率在被击中时施放 35 级 骸骨之魂",
+        "1% 几率在被击中时施放 50 级 精神错乱",
+        "+2 所有技能",
+        "防御 +261",
+        "体能 +10",
+        "怪物金币掉落 +50%",
+        "物品生成为魔法或更高品质的几率 +25%",
+        "等级 17 的 致命吸引（60/60 次充能）"
+      ]
+    },
+    {
+      "id": 124,
+      "key": "Glory",
+      "name": "辉煌壁垒",
+      "englishName": "Glory",
+      "original": false,
+      "level": 51,
+      "runes": [
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "施法速度 +35%",
+        "打击恢复速度 +25%",
+        "防御強化 +75-125%",
+        "生命上限 +25%",
+        "法力上限 +25%",
+        "物品生成为魔法或更高品质的几率 +100%",
+        "需求降低 30%"
+      ]
+    },
+    {
+      "id": 125,
+      "key": "Thought",
+      "name": "思绪",
+      "englishName": "Thought",
+      "original": false,
+      "level": 51,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+2 魔法师技能",
+        "打击恢复速度 +20%",
+        "15% 格挡几率提高",
+        "敌人闪电抗性 -20%",
+        "冰霜技能伤害 +20%",
+        "能量 +10",
+        "每 10 秒恢复 +6 点生命",
+        "法力恢复 +75%",
+        "+2 每次消灭恢复的法力",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 126,
+      "key": "Runeword180",
+      "name": "女巫团",
+      "englishName": "Coven",
+      "original": true,
+      "level": 51,
+      "runes": [
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "5% 几率在被击中时施放 10 级 咒印：迟缓",
+        "+1 所有技能",
+        "施法速度 +20%",
+        "防御強化 +30-50%",
+        "体能 +10",
+        "火焰抗性 +30%",
+        "击杀生命恢复 +1-5",
+        "物品生成为魔法或更高品质的几率 +26-40%"
+      ]
+    },
+    {
+      "id": 127,
+      "key": "Despair",
+      "name": "绝望",
+      "englishName": "Despair",
+      "original": false,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "5% 几率在击中时施放 5 级 伤害加深",
+        "+7 至疾刺 (全职业)",
+        "攻击速度 +30%",
+        "伤害強化 +260-300%",
+        "准确率加成 +20%",
+        "准确率 +50",
+        "击中窃取 +9% 法力",
+        "敌人物理伤害抗性 -10%",
+        "防止怪物自疗",
+        "物品生成为魔法或更高品质的几率 +35%"
+      ]
+    },
+    {
+      "id": 128,
+      "key": "Kingslayer",
+      "name": "弑君者",
+      "englishName": "Kingslayer",
+      "original": true,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "+1 至复仇打击 (全职业)",
+        "攻击速度 +30%",
+        "伤害強化 +230-270%",
+        "目标防御 - 25%",
+        "准确率加成 +20%",
+        "敌人物理伤害抗性 -10%",
+        "+45% 几率撕裂伤口",
+        "防止怪物自疗",
+        "力量 +10",
+        "怪物金币掉落 +40%"
+      ]
+    },
+    {
+      "id": 129,
+      "key": "Mosaic",
+      "name": "马赛克",
+      "englishName": "Mosaic",
+      "original": true,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "+50% 几率终结技不消耗充能层数",
+        "+2 武学技艺 (刺客专属)",
+        "攻击速度 +20%",
+        "伤害強化 +200-250%",
+        "准确率加成 +20%",
+        "火焰技能伤害 +8-15%",
+        "冰霜技能伤害 +8-15%",
+        "闪电技能伤害 +8-15%",
+        "击中窃取 +7% 生命",
+        "防止怪物自疗"
+      ]
+    },
+    {
+      "id": 130,
+      "key": "Rift1",
+      "name": "裂隙",
+      "englishName": "Rift",
+      "original": true,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        }
+      ],
+      "properties": [
+        "20% 几率在击中时施放 16 级 龙卷风",
+        "16% 几率在攻击时施放21级冰封球",
+        "准确率加成 +20%",
+        "附加 160 - 250 点魔法伤害",
+        "附加 60 - 180 点火焰伤害",
+        "所有属性 +5-10",
+        "敏捷 +10",
+        "+38% 受到的伤害转化为法力",
+        "怪物金币掉落 +75%",
+        "等级 15 的 荆棘诅咒（40/40 次充能）",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 131,
+      "key": "Still Water",
+      "name": "静水之澜",
+      "englishName": "Still Water",
+      "original": false,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "abowitype",
+          "name": "亚马逊弓"
+        }
+      ],
+      "properties": [
+        "+2 弓和弩技能 (亚马逊专属)",
+        "+1 亚马逊技能",
+        "攻击速度 +20%",
+        "伤害強化 +80-120%",
+        "附加 30 - 150 点伤害",
+        "准确率加成 +20%",
+        "附加 100 - 150 点冰霜伤害",
+        "冰缓时间：12 秒",
+        "+20% 几率撕裂伤口",
+        "防止怪物自疗",
+        "击退",
+        "击杀生命恢复 +15-20"
+      ]
+    },
+    {
+      "id": 132,
+      "key": "Principle",
+      "name": "原则",
+      "englishName": "Principle",
+      "original": true,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 15 级 圣光弹",
+        "+2 圣骑士技能",
+        "对亡灵的伤害 +50%",
+        "生命 +100-150",
+        "毒素抗性上限 +5%",
+        "火焰抗性 +30%",
+        "击杀生命恢复 +2"
+      ]
+    },
+    {
+      "id": 133,
+      "key": "Runeword181",
+      "name": "警戒",
+      "englishName": "Vigilance",
+      "original": true,
+      "level": 53,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        }
+      ],
+      "types": [
+        {
+          "code": "grimitype",
+          "name": "术士魔典"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        },
+        {
+          "code": "headitype",
+          "name": "死灵法师头颅"
+        },
+        {
+          "code": "ashditype",
+          "name": "圣骑士圣光盾牌"
+        }
+      ],
+      "properties": [
+        "5% 几率在被击中时施放 10 级 火焰之环",
+        "移动速度 +10%",
+        "格挡速度 +30%",
+        "防御強化 +75-100%",
+        "生命 +20-40",
+        "法力 +45-65",
+        "毒素抗性上限 +5%",
+        "所有抗性 +25-35%"
+      ]
+    },
+    {
+      "id": 134,
+      "key": "Death1",
+      "name": "死亡",
+      "englishName": "Death",
+      "original": true,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "100% 几率在死亡时施放44级连锁闪电",
+        "25% 几率在攻击时施放18级冰川之枪",
+        "永不毁损",
+        "伤害強化 +220-270%",
+        "准确率加成 +20%",
+        "准确率 +50",
+        "附加 1 - 50 点闪电伤害",
+        "击中窃取 +7% 法力",
+        "致命打击 +0.25%（基于角色等级）",
+        "等级 22 的 鲜血魔像（15/15 次充能）",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 135,
+      "key": "Flame",
+      "name": "烈焰",
+      "englishName": "Flame",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "20% 几率在被击中时施放 19 级 火球术",
+        "8% 几率在击中时施放 13 级 熔岩裂地",
+        "装备时获得17级神圣火焰光环",
+        "火焰技能伤害 +15-20%",
+        "敌人火焰抗性 -15-20%",
+        "敏捷 +10",
+        "火焰抗性上限 +5%",
+        "火焰抗性 +30%",
+        "火焰伤害吸收 +15-20",
+        "照亮范围 +5"
+      ]
+    },
+    {
+      "id": 136,
+      "key": "Flickering Flame",
+      "name": "闪烁火焰",
+      "englishName": "Flickering Flame",
+      "original": true,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "+3 火焰技能",
+        "敌人火焰抗性 -10-15%",
+        "防御強化 +30%",
+        "远程防御 +30",
+        "法力 +50-75",
+        "火焰抗性上限 +5%",
+        "火焰抗性 +40-50%",
+        "被冻结时效减半",
+        "中毒时间缩短 50%"
+      ]
+    },
+    {
+      "id": 137,
+      "key": "Heart of the Oak",
+      "name": "橡树之心",
+      "englishName": "Heart of the Oak",
+      "original": true,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "+3 所有技能",
+        "施法速度 +40%",
+        "附加 5 - 15 点火焰伤害",
+        "附加 5 - 15 点闪电伤害",
+        "附加 5 - 15 点冰霜伤害",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "击中窃取 +7% 法力",
+        "敏捷 +10",
+        "每 10 秒恢复 +20 点生命",
+        "法力上限 +15%",
+        "所有抗性 +30-40%",
+        "等级 4 的 橡木智者（25/25 次充能）",
+        "等级 14 的 渡鸦（60/60 次充能）"
+      ]
+    },
+    {
+      "id": 138,
+      "key": "Innocence",
+      "name": "清白",
+      "englishName": "Innocence",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "伤害強化 +190-240%",
+        "最大伤害 +2（基于角色等级）",
+        "击中窃取 +7% 法力",
+        "所有属性 +15-25",
+        "生命上限 +25%",
+        "-3% 获得的经验",
+        "怪物金币掉落 +75%",
+        "物品生成为魔法或更高品质的几率 +30%",
+        "每 15 秒修复 1 点耐久度"
+      ]
+    },
+    {
+      "id": 139,
+      "key": "Loyalty",
+      "name": "忠诚",
+      "englishName": "Loyalty",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "装备时获得5-9级荆棘光环光环",
+        "35-50% 格挡几率提高",
+        "法力 +25",
+        "毒素抗性上限 +5%",
+        "冰霜抗性上限 +5%",
+        "闪电抗性上限 +5%",
+        "火焰抗性上限 +5%",
+        "所有抗性 +40-50%",
+        "+6% 获得的经验"
+      ]
+    },
+    {
+      "id": 140,
+      "key": "Silence",
+      "name": "沉默",
+      "englishName": "Silence",
+      "original": true,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "攻击速度 +20%",
+        "伤害強化 +200%",
+        "施法速度 +15%",
+        "打击恢复速度 +20%",
+        "击中窃取 +11% 法力",
+        "命中可致盲目标",
+        "所有抗性 +75%",
+        "击杀生命恢复 +2",
+        "+2 每次消灭恢复的法力",
+        "物品生成为魔法或更高品质的几率 +30%",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 141,
+      "key": "Arcane2",
+      "name": "奥术辉芒",
+      "englishName": "Arcane",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "wanditype",
+          "name": "魔杖"
+        },
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "+3 所有技能",
+        "施法速度 +30-50%",
+        "击中窃取 +7% 法力",
+        "能量 +10",
+        "法力 +100",
+        "法力恢复 +50%",
+        "魔法抗性 +10%"
+      ]
+    },
+    {
+      "id": 142,
+      "key": "Wonder",
+      "name": "奇迹",
+      "englishName": "Wonder",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +15%",
+        "伤害強化 +275%",
+        "打击恢复速度 +30%",
+        "击中窃取 +14% 法力",
+        "击中窃取 +14% 生命",
+        "力量 +20",
+        "敏捷 +20",
+        "生命 +1.5（基于角色等级）",
+        "怪物金币掉落 +100-140%",
+        "物品生成为魔法或更高品质的几率 +60-80%"
+      ]
+    },
+    {
+      "id": 143,
+      "key": "Natalya's Shroud",
+      "name": "娜塔亚的织网",
+      "englishName": "Natalya's Shroud",
+      "original": false,
+      "level": 55,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+2 级 刺客技能",
+        "攻击速度 +20%",
+        "施法速度 +20%",
+        "所有元素技能伤害 +10%",
+        "防御強化 +200-250%",
+        "法力 +25",
+        "火焰抗性上限 +5%",
+        "所有抗性 +35%"
+      ]
+    },
+    {
+      "id": 144,
+      "key": "Call to Arms",
+      "name": "战争召唤",
+      "englishName": "Call to Arms",
+      "original": true,
+      "level": 57,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "+2-6 至战斗指挥 (全职业)",
+        "+1-6 至战斗命令 (全职业)",
+        "+1-4 至战斗怒吼 (全职业)",
+        "攻击速度 +40%",
+        "伤害強化 +200-240%",
+        "伤害強化 +50%",
+        "附加 5 - 30 点火焰伤害",
+        "击中窃取 +7% 生命",
+        "防止怪物自疗",
+        "每 10 秒恢复 +12 点生命",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 145,
+      "key": "Chaos1",
+      "name": "混沌",
+      "englishName": "Chaos",
+      "original": true,
+      "level": 57,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "11% 几率在击中时施放 5 级 彗星",
+        "11% 几率在击中时施放 5 级 风暴裂片",
+        "+1 至旋风斩 (全职业)",
+        "攻击速度 +35%",
+        "伤害強化 +210-250%",
+        "伤害強化 +50%",
+        "附加 216 - 471 点魔法伤害",
+        "+20% 几率撕裂伤口",
+        "力量 +10",
+        "击杀恶魔生命恢复 +15"
+      ]
+    },
+    {
+      "id": 146,
+      "key": "Exile",
+      "name": "流亡",
+      "englishName": "Exile",
+      "original": true,
+      "level": 57,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        }
+      ],
+      "types": [
+        {
+          "code": "palaitype",
+          "name": "圣骑士物品"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 5 级 生命吸取",
+        "装备时获得13-16级反抗光环光环",
+        "+2 攻击光环 (圣骑专属)",
+        "格挡速度 +30%",
+        "冻结目标",
+        "防御強化 +220-260%",
+        "法力 +25",
+        "冰霜抗性上限 +5%",
+        "火焰抗性上限 +5%",
+        "物品生成为魔法或更高品质的几率 +25%",
+        "每 25 秒修复 1 点耐久度"
+      ]
+    },
+    {
+      "id": 147,
+      "key": "Runeword182",
+      "name": "仪式",
+      "englishName": "Ritual",
+      "original": true,
+      "level": 57,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        }
+      ],
+      "types": [
+        {
+          "code": "knifitype",
+          "name": "小刀"
+        }
+      ],
+      "properties": [
+        "13% 几率在被击中时施放 1 级 咒印：死亡",
+        "攻击速度 +20%",
+        "攻击速度 +15%",
+        "伤害強化 +200-270%",
+        "伤害強化 +50%",
+        "准确率加成 +200-260%",
+        "对恶魔的伤害 +150-250%",
+        "击中窃取 +7% 生命",
+        "消灭的怪物就此安息",
+        "击杀生命恢复 +3-5"
+      ]
+    },
+    {
+      "id": 148,
+      "key": "Fortitude",
+      "name": "刚毅",
+      "englishName": "Fortitude",
+      "original": true,
+      "level": 59,
+      "runes": [
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "20% 几率在被击中时施放 15 级 冰棱甲",
+        "伤害強化 +200-300%",
+        "施法速度 +25%",
+        "防御強化 +200%",
+        "生命 +1-1.5（基于角色等级）",
+        "所有抗性 +25-30%",
+        "施法速度 +15%（武器）",
+        "最小伤害 +9（武器）",
+        "准确率 +50（武器）",
+        "致命打击 +20%（武器）",
+        "防御 +15（护甲）",
+        "法力 +25（护甲）",
+        "闪电抗性上限 +5%（护甲）",
+        "物理伤害减免 7 点（护甲）",
+        "防御 +15（盾牌）",
+        "法力 +25（盾牌）",
+        "闪电抗性上限 +5%（盾牌）",
+        "物理伤害减免 7 点（盾牌）"
+      ]
+    },
+    {
+      "id": 149,
+      "key": "Grief",
+      "name": "悔恨",
+      "englishName": "Grief",
+      "original": true,
+      "level": 59,
+      "runes": [
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "20% 几率在击中时施放 15 级 涂毒",
+        "攻击速度 +30-40%",
+        "伤害 +250-300",
+        "无视目标防御",
+        "目标防御 - 25%",
+        "对恶魔的伤害 +1.875%（基于角色等级）",
+        "附加 5 - 30 点火焰伤害",
+        "敌人毒素抗性 -20-25%",
+        "致命打击 +20%",
+        "防止怪物自疗",
+        "击杀生命恢复 +11",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 150,
+      "key": "Night1",
+      "name": "黑夜梦魇",
+      "englishName": "Night",
+      "original": false,
+      "level": 59,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "附加 25 - 75 点伤害",
+        "防御強化 +150-300%",
+        "防御 +200-300",
+        "体能 +10-20",
+        "能量 +15-20",
+        "冰霜抗性上限 +5%",
+        "闪电抗性上限 +5%",
+        "怪物金币掉落 +70-100%",
+        "物品生成为魔法或更高品质的几率 +40-70%",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 151,
+      "key": "Bramble1",
+      "name": "荆棘",
+      "englishName": "Bramble",
+      "original": true,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "装备时获得15-21级荆棘光环光环",
+        "打击恢复速度 +50%",
+        "毒素技能伤害 +25-50%",
+        "防御 +300",
+        "法力上限 +5%",
+        "法力恢复 +10%",
+        "冰霜抗性上限 +5%",
+        "火焰抗性 +30%",
+        "毒素抗性 +100%",
+        "击杀生命恢复 +13",
+        "等级 13 的 荆棘之灵（33/33 次充能）"
+      ]
+    },
+    {
+      "id": 152,
+      "key": "Dragon1",
+      "name": "巨龙",
+      "englishName": "Dragon",
+      "original": true,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "20% 几率在被击中时施放 18 级 涂毒",
+        "12% 几率在击中时施放 15 级 火焰多头蛇",
+        "装备时获得14级神圣火焰光环",
+        "防御 +360",
+        "远程防御 +230",
+        "所有属性 +3-5",
+        "力量 +0.375（基于角色等级）",
+        "法力上限 +5%（护甲）",
+        "闪电抗性上限 +5%（护甲）",
+        "物理伤害减免 7 点（护甲）",
+        "法力上限 +5%（盾牌）",
+        "闪电抗性上限 +5%（盾牌）",
+        "物理伤害减免 7 点（盾牌）"
+      ]
+    },
+    {
+      "id": 153,
+      "key": "Mantle of Lazarus",
+      "name": "拉撒路的披风",
+      "englishName": "Mantle of Lazarus",
+      "original": false,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+2 魔法师技能",
+        "施法速度 +30%",
+        "火焰技能伤害 +20%",
+        "冰霜技能伤害 +20%",
+        "闪电技能伤害 +20%",
+        "能量 +10",
+        "法力上限 +10%",
+        "法力恢复 +75%",
+        "所有抗性 +20%",
+        "+2 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 154,
+      "key": "Eclipse",
+      "name": "日蚀",
+      "englishName": "Eclipse",
+      "original": false,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        },
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "8% 几率在击中时施放 5 级 伤害加深",
+        "+1 至近战精通 (全职业)",
+        "攻击速度 +30%",
+        "伤害強化 +245-275%",
+        "打击恢复速度 +20%",
+        "致命打击 +25%",
+        "+20% 几率撕裂伤口",
+        "防止怪物自疗",
+        "命中可致盲目标",
+        "物理伤害减免 +10%"
+      ]
+    },
+    {
+      "id": 155,
+      "key": "Siren's Song",
+      "name": "塞壬之歌",
+      "englishName": "Siren's Song",
+      "original": false,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "44% 几率在被击中时施放 3 级 致命吸引",
+        "+2 所有技能",
+        "施法速度 +25%",
+        "打击恢复速度 +20%",
+        "防御 +1（基于角色等级）",
+        "所有属性 +10-20",
+        "法力上限 +20%",
+        "怪物金币掉落 +50%",
+        "物品生成为魔法或更高品质的几率 +30-50%"
+      ]
+    },
+    {
+      "id": 156,
+      "key": "Tradition",
+      "name": "传统",
+      "englishName": "Tradition",
+      "original": false,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "aspeitype",
+          "name": "亚马逊长矛"
+        }
+      ],
+      "properties": [
+        "+2-3 亚马逊技能",
+        "攻击速度 +50%",
+        "伤害強化 +240-280%",
+        "伤害強化 +50%",
+        "准确率加成 +20%",
+        "击中窃取 +10% 法力",
+        "击中窃取 +10% 生命",
+        "敌人闪电抗性 -15-20%",
+        "闪电技能伤害 +20-25%",
+        "致命打击 +20%",
+        "命中可致盲目标",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 157,
+      "key": "Wind1",
+      "name": "轻风",
+      "englishName": "Wind",
+      "original": true,
+      "level": 61,
+      "runes": [
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 30 级 龙卷风",
+        "移动速度 +20%",
+        "攻击速度 +40%",
+        "伤害強化 +120-160%",
+        "打击恢复速度 +15%",
+        "目标防御 - 50%",
+        "准确率 +50",
+        "命中可致盲目标",
+        "等级 13 的 旋风术（127/127 次充能）"
+      ]
+    },
+    {
+      "id": 158,
+      "key": "Trust",
+      "name": "信任",
+      "englishName": "Trust",
+      "original": false,
+      "level": 62,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "100% 几率在死亡时施放50级冰雹风暴",
+        "+1 所有技能",
+        "攻击速度 +20%",
+        "附加 15 - 30 点伤害",
+        "防御強化 +125-200%",
+        "力量 +10",
+        "生命 +75-100",
+        "每 10 秒恢复 +7 点生命",
+        "冰霜抗性上限 +5%",
+        "+5 所需等级"
+      ]
+    },
+    {
+      "id": 159,
+      "key": "Beast1",
+      "name": "野兽",
+      "englishName": "Beast",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "装备时获得9级狂热光环光环",
+        "+3 至熊人变化 (全职业)",
+        "+3 至变形术 (全职业)",
+        "攻击速度 +40%",
+        "伤害強化 +240-270%",
+        "对恶魔的伤害 +50%",
+        "+20% 几率撕裂伤口",
+        "防止怪物自疗",
+        "力量 +25-40",
+        "能量 +10",
+        "+2 每次消灭恢复的法力",
+        "等级 30 的 召唤灰熊（5/5 次充能）"
+      ]
+    },
+    {
+      "id": 160,
+      "key": "Rathma's Husk",
+      "name": "拉斯玛之骸",
+      "englishName": "Rathma's Husk",
+      "original": false,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "攻击速度 +20%",
+        "毒素技能伤害 +20%",
+        "+2 到 毒性攻击 (死灵专属)",
+        "+2 到 剧毒齐射 (死灵专属)",
+        "防御強化 +200-250%",
+        "所有抗性 +35%",
+        "物理伤害减免 +8%",
+        "毒系技能 +2"
+      ]
+    },
+    {
+      "id": 161,
+      "key": "Chains of Honor",
+      "name": "荣耀之链",
+      "englishName": "Chains of Honor",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "对恶魔的伤害 +200%",
+        "对亡灵的伤害 +100%",
+        "击中窃取 +8% 生命",
+        "防御強化 +70%",
+        "力量 +20",
+        "法力 +25",
+        "所有抗性 +70%",
+        "物理伤害减免 +8%",
+        "物品生成为魔法或更高品质的几率 +25%"
+      ]
+    },
+    {
+      "id": 162,
+      "key": "Eternity",
+      "name": "永恒",
+      "englishName": "Eternity",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r12",
+          "name": "索尔符文",
+          "number": 12
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "伤害強化 +260-310%",
+        "最小伤害 +9",
+        "对恶魔的伤害 +50%",
+        "附加 100 - 250 点冰霜伤害",
+        "冰缓时间：4 秒",
+        "击中窃取 +7% 生命",
+        "命中可致盲目标",
+        "使目标减速 10%",
+        "每 10 秒恢复 +25 点生命",
+        "法力恢复 +25%",
+        "无法被冻结",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 163,
+      "key": "Infinity",
+      "name": "无限",
+      "englishName": "Infinity",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "50% 几率在消灭一名敌人时施放20级连锁闪电",
+        "装备时获得12级信念光环光环",
+        "移动速度 +35%",
+        "伤害強化 +255-325%",
+        "对恶魔的伤害 +100%",
+        "敌人闪电抗性 -45-55%",
+        "防止怪物自疗",
+        "体能 +0.5（基于角色等级）",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 164,
+      "key": "Mail of the Askari",
+      "name": "阿斯卡利战甲",
+      "englishName": "Mail of the Askari",
+      "original": false,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "装备时获得12级活力光环光环",
+        "+2 亚马逊技能",
+        "伤害強化 +150-200%",
+        "穿透攻击 +20-30%",
+        "防御強化 +200-250%",
+        "敏捷 +40",
+        "闪电抗性上限 +5%",
+        "所有抗性 +40%",
+        "物理伤害减免 +8%",
+        "魔法伤害减免 7 点"
+      ]
+    },
+    {
+      "id": 165,
+      "key": "Venom",
+      "name": "毒液",
+      "englishName": "Venom",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        },
+        {
+          "code": "circitype",
+          "name": "头环"
+        }
+      ],
+      "properties": [
+        "装备时获得8级净化光环光环",
+        "+1 至涂毒 (全职业)",
+        "毒素技能伤害 +15%",
+        "敌人毒素抗性 -15%",
+        "法力 +25",
+        "所有抗性 +15%",
+        "物理伤害减免 +13%",
+        "魔法伤害减免 7 点",
+        "毒系技能 +2"
+      ]
+    },
+    {
+      "id": 166,
+      "key": "Wrath1",
+      "name": "怒火",
+      "englishName": "Wrath",
+      "original": true,
+      "level": 63,
+      "runes": [
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "5% 几率在击中时施放 10 级 生命吸取",
+        "30% 几率在击中时施放 1 级 衰老",
+        "对恶魔的伤害 +350%",
+        "对亡灵的伤害 +250-300%",
+        "附加 85 - 120 点魔法伤害",
+        "附加 5 - 15 点火焰伤害",
+        "附加 46 - 255 点闪电伤害",
+        "附加 5 - 15 点冰霜伤害",
+        "防止怪物自疗",
+        "能量 +10",
+        "无法被冻结"
+      ]
+    },
+    {
+      "id": 167,
+      "key": "Brand",
+      "name": "烙印",
+      "englishName": "Brand",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 10 级 伤害加深",
+        "15% 几率在击中时施放 5 级 脊骨穿刺者",
+        "伤害強化 +260-300%",
+        "射出爆炸箭或弩矢",
+        "无视目标防御",
+        "准确率加成 +20%",
+        "对恶魔的伤害 +280-330%",
+        "致命打击 +20%",
+        "防止怪物自疗",
+        "击退"
+      ]
+    },
+    {
+      "id": 168,
+      "key": "Daylight",
+      "name": "极昼之光",
+      "englishName": "Daylight",
+      "original": false,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "orbitype",
+          "name": "女巫法球"
+        }
+      ],
+      "properties": [
+        "装备时获得4级信念光环光环",
+        "+3 魔法师技能",
+        "施法速度 +30%",
+        "无视目标防御",
+        "+20% 几率撕裂伤口",
+        "力量 +10",
+        "生命上限 +15%",
+        "法力上限 +30%",
+        "法力恢复 +50%",
+        "等级 18 的 降低抗性（33/33 次充能）"
+      ]
+    },
+    {
+      "id": 169,
+      "key": "Destruction",
+      "name": "毁灭",
+      "englishName": "Destruction",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 30 级 火山爆",
+        "10% 几率在击中时施放 30 级 熔岩巨石",
+        "100% 几率在死亡时施放50级陨星",
+        "10% 几率在击中时施放 10 级 风暴脉冲",
+        "伤害強化 +300-325%",
+        "无视目标防御",
+        "对恶魔的伤害 +50%",
+        "附加 100 - 180 点魔法伤害",
+        "击中窃取 +7% 法力",
+        "致命打击 +20%",
+        "敏捷 +10"
+      ]
+    },
+    {
+      "id": 170,
+      "key": "Dream",
+      "name": "梦境",
+      "englishName": "Dream",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r21",
+          "name": "普尔符文",
+          "number": 21
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "10% 几率在被击中时施放 15 级 致命吸引",
+        "装备时获得15级神圣闪电光环",
+        "打击恢复速度 +20-30%",
+        "防御 +150-220",
+        "法力 +0.625（基于角色等级）",
+        "所有抗性 +5-20%",
+        "物品生成为魔法或更高品质的几率 +15-25%",
+        "防御強化 +30%（护甲）",
+        "体能 +10（护甲）",
+        "生命上限 +5%（护甲）",
+        "防御強化 +30%（盾牌）",
+        "体能 +10（盾牌）",
+        "生命 +50（盾牌）"
+      ]
+    },
+    {
+      "id": 171,
+      "key": "Enigma",
+      "name": "谜团",
+      "englishName": "Enigma",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "+2 所有技能",
+        "+1 至传送术 (全职业)",
+        "移动速度 +45%",
+        "防御 +750-775",
+        "力量 +0.75（基于角色等级）",
+        "生命上限 +5%",
+        "物理伤害减免 +8%",
+        "击杀生命恢复 +14",
+        "+15% 受到的伤害转化为法力",
+        "物品生成为魔法或更高品质的几率 +1%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 172,
+      "key": "Faith",
+      "name": "信心",
+      "englishName": "Faith",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "装备时获得12-15级狂热光环光环",
+        "+1-2 所有技能",
+        "伤害強化 +250%",
+        "伤害強化 +50%",
+        "无视目标防御",
+        "准确率加成 +300%",
+        "附加 120 - 120 点火焰伤害",
+        "所有抗性 +15%",
+        "10% 复活：回魂骷髅",
+        "击杀生命恢复 +2",
+        "怪物金币掉落 +75%"
+      ]
+    },
+    {
+      "id": 173,
+      "key": "Famine",
+      "name": "饥荒",
+      "englishName": "Famine",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "攻击速度 +30%",
+        "伤害強化 +220-260%",
+        "伤害強化 +50%",
+        "无视目标防御",
+        "附加 180 - 200 点魔法伤害",
+        "附加 50 - 200 点火焰伤害",
+        "附加 50 - 200 点闪电伤害",
+        "附加 1 - 50 点闪电伤害",
+        "附加 50 - 200 点冰霜伤害",
+        "冰缓时间：4 秒",
+        "击中窃取 +12% 生命",
+        "防止怪物自疗",
+        "力量 +10",
+        "无形的（无法修复）"
+      ]
+    },
+    {
+      "id": 174,
+      "key": "Fury",
+      "name": "狂怒",
+      "englishName": "Fury",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "攻击速度 +40%",
+        "伤害強化 +209-259%",
+        "无视目标防御",
+        "目标防御 - 25%",
+        "准确率加成 +20%",
+        "击中窃取 +6% 生命",
+        "致命打击 +25%",
+        "+30% 几率撕裂伤口",
+        "防止怪物自疗",
+        "+5 到 狂乱连击 (野蛮人专属)"
+      ]
+    },
+    {
+      "id": 175,
+      "key": "Ice",
+      "name": "寒冰",
+      "englishName": "Ice",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放20级冰雹风暴",
+        "15% 几率在击中时施放 15 级 冬之脉冲",
+        "装备时获得18级神圣冰冻光环",
+        "攻击速度 +15%",
+        "伤害強化 +140-210%",
+        "无视目标防御",
+        "冰霜技能伤害 +25-30%",
+        "敌人冰霜抗性 -20%",
+        "击中窃取 +7% 生命",
+        "致命打击 +20%",
+        "怪物金币掉落 +3.125%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 176,
+      "key": "Phoenix",
+      "name": "凤凰",
+      "englishName": "Phoenix",
+      "original": true,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放40级炽烈之径",
+        "40% 几率在击中时施放 22 级 火焰风暴",
+        "装备时获得13级救赎光环光环",
+        "伤害強化 +200-300%",
+        "敌人火焰抗性 -28%",
+        "远程防御 +350-400",
+        "火焰伤害吸收 +15-21",
+        "无视目标防御（武器）",
+        "击中窃取 +14% 法力（武器）",
+        "致命打击 +20%（武器）",
+        "生命 +50（盾牌）",
+        "闪电抗性上限 +5%（盾牌）",
+        "火焰抗性上限 +10%（盾牌）"
+      ]
+    },
+    {
+      "id": 177,
+      "key": "Akarat's Devotion",
+      "name": "阿卡拉特的奉献",
+      "englishName": "Akarat's Devotion",
+      "original": false,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r18",
+          "name": "科符文",
+          "number": 18
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "装备时获得8级救赎光环光环",
+        "+2 圣骑士技能",
+        "施法速度 +20%",
+        "打击恢复速度 +20%",
+        "+3 到 祝福之锤 (圣骑专属)",
+        "防御強化 +200-250%",
+        "力量 +50",
+        "敏捷 +10",
+        "生命上限 +5%",
+        "所有抗性 +35%"
+      ]
+    },
+    {
+      "id": 178,
+      "key": "Storm1",
+      "name": "雷暴旋涡",
+      "englishName": "Storm",
+      "original": false,
+      "level": 65,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "16% 几率在击中时施放 8 级 弧光",
+        "+10 至雷电风暴 (全职业)",
+        "攻击速度 +20%",
+        "伤害強化 +250%",
+        "伤害強化 +50%",
+        "无视目标防御",
+        "附加 1 - 50 点闪电伤害",
+        "+20% 几率撕裂伤口",
+        "击退",
+        "闪电抗性 +100%",
+        "闪电伤害吸收 +25%",
+        "+3% 获得的经验"
+      ]
+    },
+    {
+      "id": 179,
+      "key": "Doom1",
+      "name": "末日",
+      "englishName": "Doom",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "5% 几率在被击中时施放 18 级 气旋护甲",
+        "装备时获得12级神圣冰冻光环",
+        "+2 所有技能",
+        "伤害強化 +50%",
+        "施法速度 +40%",
+        "冰霜技能伤害 +15-25%",
+        "敌人冰霜抗性 -30-40%",
+        "致命打击 +20%",
+        "+20% 几率撕裂伤口",
+        "冻结目标",
+        "法力上限 +30%",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 180,
+      "key": "Doom1",
+      "name": "末日",
+      "englishName": "Doom",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        },
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "9% 几率在击中时施放 20 级 火山爆",
+        "装备时获得12级神圣冰冻光环",
+        "+2 所有技能",
+        "攻击速度 +45%",
+        "伤害強化 +250-280%",
+        "伤害強化 +50%",
+        "敌人冰霜抗性 -20-30%",
+        "致命打击 +20%",
+        "+20% 几率撕裂伤口",
+        "防止怪物自疗",
+        "冻结目标",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 181,
+      "key": "Elation",
+      "name": "欢欣",
+      "englishName": "Elation",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        }
+      ],
+      "types": [
+        {
+          "code": "abowitype",
+          "name": "亚马逊弓"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 20 级 风暴脉冲",
+        "+2 弓和弩技能 (亚马逊专属)",
+        "攻击速度 +15%",
+        "最小伤害 +50-100",
+        "最大伤害 +2.25（基于角色等级）",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "击中窃取 +7% 法力",
+        "冰霜技能伤害 +10-15%",
+        "火焰技能伤害 +10-15%",
+        "防止怪物自疗",
+        "冻结目标",
+        "击退"
+      ]
+    },
+    {
+      "id": 182,
+      "key": "Hand of Justice",
+      "name": "正义之手",
+      "englishName": "Hand of Justice",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "100% 几率在升级时施放36级炽烈之径",
+        "100% 几率在死亡时施放20级陨星",
+        "装备时获得16级神圣火焰光环",
+        "攻击速度 +33%",
+        "伤害強化 +280-300%",
+        "无视目标防御",
+        "敌人火焰抗性 -20%",
+        "击中窃取 +7% 生命",
+        "致命打击 +20%",
+        "命中可致盲目标",
+        "冻结目标"
+      ]
+    },
+    {
+      "id": 183,
+      "key": "Last Wish",
+      "name": "最后希望",
+      "englishName": "Last Wish",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "6% 几率在被击中时施放 11 级 影散",
+        "10% 几率在击中时施放 18 级 生命吸取",
+        "10% 几率在击中时施放 20 级 风暴裂片",
+        "装备时获得17级力量光环光环",
+        "伤害強化 +300-325%",
+        "附加 50 - 100 点伤害",
+        "无视目标防御",
+        "对恶魔的伤害 +50%",
+        "+10% 几率造成粉碎打击",
+        "防止怪物自疗",
+        "命中可致盲目标",
+        "冻结目标"
+      ]
+    },
+    {
+      "id": 184,
+      "key": "Metamorphosis",
+      "name": "变形",
+      "englishName": "Metamorphosis",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "100% 几率在击中时施放 1 级 巨熊印记",
+        "100% 几率在击中时施放 1 级 恶狼印记",
+        "+3-5 变形技能 (德鲁伊专属)",
+        "敌人物理伤害抗性 -10%",
+        "防御強化 +50-80%",
+        "力量 +10",
+        "体能 +10",
+        "所有抗性 +10%",
+        "无法被冻结"
+      ]
+    },
+    {
+      "id": 185,
+      "key": "Mist",
+      "name": "迷雾",
+      "englishName": "Mist",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "装备时获得8-12级专注光环光环",
+        "+3 所有技能",
+        "攻击速度 +15%",
+        "伤害強化 +300-325%",
+        "穿透攻击 +100%",
+        "最大伤害 +9",
+        "准确率加成 +20%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "冻结目标",
+        "体能 +24",
+        "所有抗性 +40%"
+      ]
+    },
+    {
+      "id": 186,
+      "key": "Qual-Kehk's Oath",
+      "name": "库尔凯克的誓言",
+      "englishName": "Qual-Kehk's Oath",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "9% 几率在击中时施放 8 级 衰老",
+        "+2 野蛮人技能",
+        "攻击速度 +30%",
+        "伤害強化 +200-250%",
+        "防御強化 +200-250%",
+        "力量 +10",
+        "所有抗性 +30%",
+        "物理伤害减免 +8%",
+        "无法被冻结",
+        "需求降低 15%"
+      ]
+    },
+    {
+      "id": 187,
+      "key": "Plague1",
+      "name": "瘟疫",
+      "englishName": "Plague",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        },
+        {
+          "code": "knifitype",
+          "name": "小刀"
+        },
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "20% 几率在被击中时施放 12 级 降低抗性",
+        "25% 几率在击中时施放 15 级 剧毒新星",
+        "装备时获得13-17级净化光环光环",
+        "+1-2 所有技能",
+        "攻击速度 +15%",
+        "伤害強化 +220-320%",
+        "敌人毒素抗性 -23%",
+        "致命打击 +0.25%（基于角色等级）",
+        "+20% 几率撕裂伤口",
+        "冻结目标"
+      ]
+    },
+    {
+      "id": 188,
+      "key": "Pride",
+      "name": "骄傲",
+      "englishName": "Pride",
+      "original": true,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        },
+        {
+          "code": "speaitype",
+          "name": "长矛"
+        }
+      ],
+      "properties": [
+        "25% 几率在被击中时施放 17 级 火墙术",
+        "装备时获得16-20级专注光环光环",
+        "准确率加成 +260-300%",
+        "对恶魔的伤害 +1%（基于角色等级）",
+        "附加 50 - 280 点闪电伤害",
+        "致命打击 +20%",
+        "命中可致盲目标",
+        "冻结目标",
+        "体能 +10",
+        "每 10 秒恢复 +8 点生命",
+        "怪物金币掉落 +1.875%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 189,
+      "key": "Bark of the Great Oak",
+      "name": "巨橡树之皮",
+      "englishName": "Bark of the Great Oak",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "装备时获得18级反抗光环光环",
+        "+2 级 德鲁伊技能",
+        "攻击速度 +20%",
+        "打击恢复速度 +30%",
+        "防御強化 +200-250%",
+        "所有属性 +25",
+        "所有抗性 +20%",
+        "物理伤害减免 +16%",
+        "无法被冻结"
+      ]
+    },
+    {
+      "id": 190,
+      "key": "Wings of Hope",
+      "name": "希望之翼",
+      "englishName": "Wings of Hope",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "scepitype",
+          "name": "权杖"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 5 级 脊骨穿刺者",
+        "装备时获得3级圣护光环光环",
+        "+1 至传送 (全职业)",
+        "附加 60-100 到 150-200 伤害",
+        "消灭的怪物就此安息",
+        "冻结目标",
+        "所有属性 +20"
+      ]
+    },
+    {
+      "id": 191,
+      "key": "Infernum",
+      "name": "永劫炼狱",
+      "englishName": "Infernum",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "grimitype",
+          "name": "术士魔典"
+        }
+      ],
+      "properties": [
+        "7% 几率在击中时施放 40 级 天启末日",
+        "+2-3 火焰技能",
+        "+1 术士技能",
+        "攻击速度 +30-40%",
+        "火焰技能伤害 +15-20%",
+        "敌人火焰抗性 -10%",
+        "生命 +50",
+        "火焰抗性上限 +5%",
+        "所有抗性 +20-30%",
+        "无法被冻结"
+      ]
+    },
+    {
+      "id": 192,
+      "key": "Ruin",
+      "name": "覆灭",
+      "englishName": "Ruin",
+      "original": false,
+      "level": 67,
+      "runes": [
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "grimitype",
+          "name": "术士魔典"
+        }
+      ],
+      "properties": [
+        "10% 几率在击中时施放 40 级 瘴气锁链",
+        "装备时获得5-15级庇护光环光环",
+        "+2-3 混沌技能 (术士专属)",
+        "+1 术士技能",
+        "攻击速度 +25-35%",
+        "+15-20% 魔法技能伤害",
+        "所有抗性 +20%",
+        "物理伤害减免 +8%",
+        "无法被冻结",
+        "物品生成为魔法或更高品质的几率 +25%"
+      ]
+    },
+    {
+      "id": 193,
+      "key": "Breath of the Dying",
+      "name": "濒死之息",
+      "englishName": "Breath of the Dying",
+      "original": true,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        },
+        {
+          "code": "r02",
+          "name": "艾德符文",
+          "number": 2
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r05",
+          "name": "艾斯符文",
+          "number": 5
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "25% 几率在消灭一名敌人时施放5级疫爆",
+        "永不毁损",
+        "攻击速度 +60%",
+        "伤害強化 +285-325%",
+        "目标防御 - 25%",
+        "准确率 +50",
+        "对亡灵的伤害 +125%",
+        "击中窃取 +7% 法力",
+        "击中窃取 +12-15% 生命",
+        "防止怪物自疗",
+        "所有属性 +30",
+        "击杀生命恢复 +2",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 194,
+      "key": "Darkness",
+      "name": "黑暗",
+      "englishName": "Darkness",
+      "original": false,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        }
+      ],
+      "types": [
+        {
+          "code": "h2hitype",
+          "name": "刺客爪"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "+3 级 刺客技能",
+        "附加 100 - 150 点伤害",
+        "击中窃取 +7% 法力",
+        "击中窃取 +7% 生命",
+        "所有属性 +20-30",
+        "所有抗性 +20-40%",
+        "物理伤害减免 +15%",
+        "物品生成为魔法或更高品质的几率 +1%（基于角色等级）"
+      ]
+    },
+    {
+      "id": 195,
+      "key": "Morning Dew",
+      "name": "晨曦之露",
+      "englishName": "Morning Dew",
+      "original": false,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r23",
+          "name": "马尔符文",
+          "number": 23
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "poleitype",
+          "name": "长柄武器"
+        }
+      ],
+      "properties": [
+        "10% 几率在消灭一名敌人时施放20级静电力场",
+        "永不毁损",
+        "+2-3 级 德鲁伊技能",
+        "+3-5 至近战精通 (全职业)",
+        "攻击速度 +50%",
+        "伤害強化 +300-325%",
+        "最大伤害 +9",
+        "对恶魔的伤害 +50%",
+        "+10% 几率造成粉碎打击",
+        "防止怪物自疗",
+        "冻结目标",
+        "所有抗性 +25%",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 196,
+      "key": "Mystery",
+      "name": "奥秘",
+      "englishName": "Mystery",
+      "original": false,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        }
+      ],
+      "types": [
+        {
+          "code": "druiitype",
+          "name": "德鲁伊物品"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "装备时获得6级专注光环光环",
+        "+3 级 德鲁伊技能",
+        "攻击速度 +20%",
+        "打击恢复速度 +20%",
+        "生命上限 +15%",
+        "法力上限 +15%",
+        "毒素抗性上限 +5%",
+        "所有抗性 +30-50%",
+        "+3% 获得的经验"
+      ]
+    },
+    {
+      "id": 197,
+      "key": "Obsession",
+      "name": "执着",
+      "englishName": "Obsession",
+      "original": true,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r16",
+          "name": "埃欧符文",
+          "number": 16
+        },
+        {
+          "code": "r04",
+          "name": "那夫符文",
+          "number": 4
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "24% 几率在被击中时施放 10 级 削弱",
+        "永不毁损",
+        "+4 所有技能",
+        "施法速度 +65%",
+        "打击恢复速度 +60%",
+        "击退",
+        "体能 +10",
+        "能量 +10",
+        "生命上限 +15-25%",
+        "法力恢复 +15-30%",
+        "所有抗性 +60-70%",
+        "怪物金币掉落 +75%",
+        "物品生成为魔法或更高品质的几率 +30%"
+      ]
+    },
+    {
+      "id": 198,
+      "key": "Purity",
+      "name": "纯净",
+      "englishName": "Purity",
+      "original": false,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        }
+      ],
+      "types": [
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "10% 几率在被击中时施放 19 级 骸骨护甲",
+        "5% 几率在击中时施放 10 级 昏暗视野",
+        "永不毁损",
+        "打击恢复速度 +50%",
+        "格挡速度 +20%",
+        "55% 格挡几率提高",
+        "防御 +4（基于角色等级）",
+        "生命 +50",
+        "所有抗性 +30-50%",
+        "击杀生命恢复 +15",
+        "物品生成为魔法或更高品质的几率 +25%"
+      ]
+    },
+    {
+      "id": 199,
+      "key": "Reason",
+      "name": "理由",
+      "englishName": "Reason",
+      "original": false,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r17",
+          "name": "卢姆符文",
+          "number": 17
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        }
+      ],
+      "types": [
+        {
+          "code": "stafitype",
+          "name": "法杖"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "装备时获得5级冥思光环光环",
+        "+3 魔法师技能",
+        "施法速度 +50%",
+        "+4 随机 魔法师 技能",
+        "能量 +20",
+        "物理伤害减免 +20%",
+        "+2 每次消灭恢复的法力",
+        "+3% 获得的经验",
+        "+20% 受到的伤害转化为法力"
+      ]
+    },
+    {
+      "id": 200,
+      "key": "Void",
+      "name": "虚空战吼",
+      "englishName": "Void",
+      "original": true,
+      "level": 69,
+      "runes": [
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "knifitype",
+          "name": "小刀"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "+2 所有技能",
+        "+1-3 至深渊裂口 (全职业)",
+        "施法速度 +40%",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "+10-15% 魔法技能伤害",
+        "所有属性 +8-12",
+        "物品生成为魔法或更高品质的几率 +30%",
+        "等级 4 的 衰老（35/35 次充能）"
+      ]
+    },
+    {
+      "id": 201,
+      "key": "Praise",
+      "name": "赞美",
+      "englishName": "Praise",
+      "original": false,
+      "level": 72,
+      "runes": [
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        },
+        {
+          "code": "r25",
+          "name": "古尔符文",
+          "number": 25
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "clubitype",
+          "name": "棍棒"
+        },
+        {
+          "code": "hammitype",
+          "name": "锤"
+        },
+        {
+          "code": "maceitype",
+          "name": "钉头锤"
+        }
+      ],
+      "properties": [
+        "10% 几率在被击中时施放 50 级 冰封球",
+        "15% 几率在被击中时施放 30 级 冬之脉冲",
+        "攻击速度 +15%",
+        "伤害強化 +210-230%",
+        "伤害強化 +50%",
+        "无视目标防御",
+        "准确率加成 +20%",
+        "击中窃取 +10% 生命",
+        "力量 +10",
+        "物品生成为魔法或更高品质的几率 +40-60%",
+        "+15 所需等级"
+      ]
+    },
+    {
+      "id": 202,
+      "key": "Woe",
+      "name": "灾难",
+      "englishName": "Woe",
+      "original": false,
+      "level": 74,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "25% 几率在被击中时施放 25 级 连锁闪电",
+        "25% 几率在被击中时施放 25 级 火球术",
+        "25% 几率在被击中时施放 25 级 暴风雪",
+        "+2 所有技能",
+        "打击恢复速度 +20%",
+        "所有属性 +25",
+        "无法被冻结",
+        "中毒时间缩短 80%",
+        "+2 每次消灭恢复的法力",
+        "+7 所需等级"
+      ]
+    },
+    {
+      "id": 203,
+      "key": "Knight's Vigil",
+      "name": "骑士之御",
+      "englishName": "Knight's Vigil",
+      "original": false,
+      "level": 75,
+      "runes": [
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "装备时获得8-12级冥思光环光环",
+        "+2 圣骑士技能",
+        "施法速度 +40%",
+        "格挡速度 +20%",
+        "20-30% 格挡几率提高",
+        "每 10 秒恢复 +10-15 点生命",
+        "+12 所需等级",
+        "所有抗性 +20%（护甲）",
+        "物理伤害减免 +8%（护甲）",
+        "怪物金币掉落 +50%（护甲）",
+        "物品生成为魔法或更高品质的几率 +25%（护甲）",
+        "所有抗性 +20%（盾牌）",
+        "物理伤害减免 +8%（盾牌）",
+        "怪物金币掉落 +50%（盾牌）",
+        "物品生成为魔法或更高品质的几率 +25%（盾牌）"
+      ]
+    },
+    {
+      "id": 204,
+      "key": "Prowess in Battle",
+      "name": "战斗英姿",
+      "englishName": "Prowess in Battle",
+      "original": false,
+      "level": 75,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r19",
+          "name": "法尔符文",
+          "number": 19
+        }
+      ],
+      "types": [
+        {
+          "code": "barbitype",
+          "name": "野蛮人物品"
+        }
+      ],
+      "properties": [
+        "装备时获得6级狂热光环光环",
+        "+3 野蛮人技能",
+        "伤害強化 +100%",
+        "打击恢复速度 +40%",
+        "准确率加成 +50%",
+        "防御 +3（基于角色等级）",
+        "力量 +10",
+        "生命上限 +5%",
+        "物品生成为魔法或更高品质的几率 +25%",
+        "+10 所需等级"
+      ]
+    },
+    {
+      "id": 205,
+      "key": "Shatter",
+      "name": "粉碎",
+      "englishName": "Shatter",
+      "original": false,
+      "level": 75,
+      "runes": [
+        {
+          "code": "r35",
+          "name": "泽弗符文",
+          "number": 35
+        },
+        {
+          "code": "r35",
+          "name": "泽弗符文",
+          "number": 35
+        },
+        {
+          "code": "r35",
+          "name": "泽弗符文",
+          "number": 35
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "装备时获得10-15级信念光环光环",
+        "+3-4 所有技能",
+        "所有元素技能伤害 +30-40%",
+        "敏捷 +20-30",
+        "+10-15 每次消灭恢复的法力"
+      ]
+    },
+    {
+      "id": 206,
+      "key": "Valor",
+      "name": "勇毅之刃",
+      "englishName": "Valor",
+      "original": false,
+      "level": 77,
+      "runes": [
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r03",
+          "name": "特尔符文",
+          "number": 3
+        },
+        {
+          "code": "r14",
+          "name": "多尔符文",
+          "number": 14
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r29",
+          "name": "瑟符文",
+          "number": 29
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "攻击速度 +15%",
+        "施法速度 +15%",
+        "最小伤害 +100",
+        "最大伤害 +2.5（基于角色等级）",
+        "+20% 几率撕裂伤口",
+        "命中可致盲目标",
+        "冻结目标",
+        "+2 每次消灭恢复的法力",
+        "+5% 获得的经验",
+        "等级 40 的 战斗命令（15/15 次充能）",
+        "+10 所需等级",
+        "无形的（无法修复）"
+      ]
+    },
+    {
+      "id": 207,
+      "key": "Peril",
+      "name": "灾难之锋",
+      "englishName": "Peril",
+      "original": false,
+      "level": 78,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "missitype",
+          "name": "远程武器"
+        }
+      ],
+      "properties": [
+        "+1 所有技能",
+        "攻击速度 +75%",
+        "伤害強化 +250%",
+        "最大伤害 +3.125（基于角色等级）",
+        "对恶魔的伤害 +100%",
+        "致命打击 +40%",
+        "冻结目标",
+        "所有属性 +20-30",
+        "物品生成为魔法或更高品质的几率 +1%（基于角色等级）",
+        "+11 所需等级"
+      ]
+    },
+    {
+      "id": 208,
+      "key": "Armageddon",
+      "name": "末日浩劫",
+      "englishName": "Armageddon",
+      "original": false,
+      "level": 80,
+      "runes": [
+        {
+          "code": "r08",
+          "name": "拉尔符文",
+          "number": 8
+        },
+        {
+          "code": "r09",
+          "name": "欧特符文",
+          "number": 9
+        },
+        {
+          "code": "r10",
+          "name": "书尔符文",
+          "number": 10
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        }
+      ],
+      "types": [
+        {
+          "code": "sworitype",
+          "name": "剑"
+        }
+      ],
+      "properties": [
+        "15% 几率在击中时施放 20 级 暴风雪",
+        "15% 几率在击中时施放 20 级 天启末日",
+        "攻击速度 +30%",
+        "伤害強化 +275-300%",
+        "对恶魔的伤害 +50%",
+        "附加 50 - 300 点火焰伤害",
+        "附加 5 - 30 点火焰伤害",
+        "附加 50 - 300 点闪电伤害",
+        "附加 1 - 50 点闪电伤害",
+        "附加 50 - 300 点冰霜伤害",
+        "冰缓时间：8 秒",
+        "附加 3 - 14 点冰霜伤害",
+        "冰缓时间：3 秒",
+        "冻结目标",
+        "所有抗性 +35%",
+        "+13 所需等级",
+        "需求降低 20%"
+      ]
+    },
+    {
+      "id": 209,
+      "key": "Unity",
+      "name": "团结",
+      "englishName": "Unity",
+      "original": false,
+      "level": 80,
+      "runes": [
+        {
+          "code": "r34",
+          "name": "布拉克符文",
+          "number": 34
+        },
+        {
+          "code": "r35",
+          "name": "泽弗符文",
+          "number": 35
+        },
+        {
+          "code": "r36",
+          "name": "米尔符文",
+          "number": 36
+        },
+        {
+          "code": "r37",
+          "name": "格里特符文",
+          "number": 37
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+3-4 所有技能",
+        "防御強化 +300%",
+        "所有属性 +30",
+        "魔法抗性 +10%",
+        "物理伤害减免 +10%",
+        "物品生成为魔法或更高品质的几率 +150-200%",
+        "力量 +5%（护甲）",
+        "敏捷 +5%（护甲）",
+        "能量 +5%（护甲）",
+        "体能 +5%（护甲）",
+        "力量 +5%（盾牌）",
+        "敏捷 +5%（盾牌）",
+        "能量 +5%（盾牌）",
+        "体能 +5%（盾牌）"
+      ]
+    },
+    {
+      "id": 210,
+      "key": "Victory",
+      "name": "胜利",
+      "englishName": "Victory",
+      "original": false,
+      "level": 81,
+      "runes": [
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r20",
+          "name": "蓝姆符文",
+          "number": 20
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        },
+        {
+          "code": "r27",
+          "name": "欧姆符文",
+          "number": 27
+        }
+      ],
+      "types": [
+        {
+          "code": "axeitype",
+          "name": "斧"
+        }
+      ],
+      "properties": [
+        "攻击速度 +60%",
+        "伤害強化 +50%",
+        "伤害強化 +50%",
+        "伤害強化 +50%",
+        "伤害強化 +50%",
+        "最大伤害 +2.5（基于角色等级）",
+        "附加 1 - 300 点火焰伤害",
+        "附加 1 - 300 点闪电伤害",
+        "附加 1 - 300 点冰霜伤害",
+        "冰缓时间：5 秒",
+        "防止怪物自疗",
+        "怪物金币掉落 +75%",
+        "物品生成为魔法或更高品质的几率 +30%",
+        "每 10 秒修复 1 点耐久度",
+        "+24 所需等级",
+        "需求降低 50%"
+      ]
+    },
+    {
+      "id": 211,
+      "key": "Glammer",
+      "name": "幽芒",
+      "englishName": "Glammer",
+      "original": false,
+      "level": 81,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r30",
+          "name": "贝符文",
+          "number": 30
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "16% 几率在击中时施放 9 级 削弱",
+        "永不毁损",
+        "+2 所有技能",
+        "致命打击 +25%",
+        "防御強化 +160-200%",
+        "物理伤害减免 +8%",
+        "无法被冻结",
+        "物品生成为魔法或更高品质的几率 +1.5%（基于角色等级）",
+        "+12 所需等级"
+      ]
+    },
+    {
+      "id": 212,
+      "key": "Broken Promise",
+      "name": "破碎之诺",
+      "englishName": "Broken Promise",
+      "original": false,
+      "level": 82,
+      "runes": [
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        },
+        {
+          "code": "r26",
+          "name": "伐克斯符文",
+          "number": 26
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        },
+        {
+          "code": "r13",
+          "name": "夏符文",
+          "number": 13
+        },
+        {
+          "code": "r28",
+          "name": "罗符文",
+          "number": 28
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        }
+      ],
+      "properties": [
+        "18% 几率在击中时施放 18 级 骸骨之魂",
+        "+2 所有技能",
+        "攻击速度 +15%",
+        "伤害強化 +285-325%",
+        "最大伤害 +2（基于角色等级）",
+        "击中窃取 +7% 法力",
+        "敌人物理伤害抗性 -10%",
+        "击中窃取 +7% 生命",
+        "致命打击 +20%",
+        "冻结目标",
+        "-5% 获得的经验",
+        "+15 所需等级"
+      ]
+    },
+    {
+      "id": 213,
+      "key": "Time",
+      "name": "时光守护",
+      "englishName": "Time",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        },
+        {
+          "code": "r11",
+          "name": "安姆符文",
+          "number": 11
+        }
+      ],
+      "types": [
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "100% 几率在被击中时施放 25 级 闪电新星",
+        "+1 至传送术 (全职业)",
+        "防止怪物自疗",
+        "防御強化 +160-220%",
+        "生命 +35-50",
+        "生命上限 +10-20%",
+        "+20 所需等级",
+        "生命上限 +5%（护甲）",
+        "每 10 秒恢复 +7 点生命（护甲）",
+        "生命 +50（盾牌）",
+        "每 10 秒恢复 +7 点生命（盾牌）"
+      ]
+    },
+    {
+      "id": 214,
+      "key": "Insanity",
+      "name": "疯狂",
+      "englishName": "Insanity",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r34",
+          "name": "布拉克符文",
+          "number": 34
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r38",
+          "name": "德姆符文",
+          "number": 38
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "装备时获得5-10级狂热光环光环",
+        "+3-4 所有技能",
+        "附加 50 - 100 点伤害",
+        "敌人物理伤害抗性 -10%",
+        "防御強化 +200%",
+        "力量 +5%",
+        "生命上限 +10%",
+        "所有抗性 +20-30%",
+        "物理伤害减免 +20%"
+      ]
+    },
+    {
+      "id": 215,
+      "key": "Chromaskin",
+      "name": "幻彩之肤",
+      "englishName": "Chromaskin",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r35",
+          "name": "泽弗符文",
+          "number": 35
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r38",
+          "name": "德姆符文",
+          "number": 38
+        },
+        {
+          "code": "r31",
+          "name": "乔符文",
+          "number": 31
+        }
+      ],
+      "types": [
+        {
+          "code": "helmitype",
+          "name": "头盔"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "装备时获得5-10级信念光环光环",
+        "+3-4 所有技能",
+        "附加 50 - 100 点火焰伤害",
+        "附加 50 - 100 点闪电伤害",
+        "附加 50 - 100 点冰霜伤害",
+        "对所有敌人的元素抗性 -10%",
+        "防御強化 +200%",
+        "敏捷 +5%",
+        "生命上限 +10%",
+        "所有抗性 +20-30%",
+        "物理伤害减免 +20%"
+      ]
+    },
+    {
+      "id": 216,
+      "key": "Ravage",
+      "name": "蹂躏",
+      "englishName": "Ravage",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r39",
+          "name": "赫夫符文",
+          "number": 39
+        },
+        {
+          "code": "r34",
+          "name": "布拉克符文",
+          "number": 34
+        },
+        {
+          "code": "r38",
+          "name": "德姆符文",
+          "number": 38
+        },
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r34",
+          "name": "布拉克符文",
+          "number": 34
+        }
+      ],
+      "types": [
+        {
+          "code": "meleitype",
+          "name": "近战武器"
+        }
+      ],
+      "properties": [
+        "15% 几率在攻击时施放10级旋风魔",
+        "15% 几率在攻击时施放10级脊骨穿刺者",
+        "永不毁损",
+        "+3-4 所有技能",
+        "攻击速度 +30-60%",
+        "伤害強化 +300-400%",
+        "伤害強化 +30%",
+        "伤害強化 +30%",
+        "对恶魔的伤害 +75%",
+        "对亡灵的伤害 +75%",
+        "敌人物理伤害抗性 -20%",
+        "+10% 几率造成粉碎打击"
+      ]
+    },
+    {
+      "id": 217,
+      "key": "Solace",
+      "name": "慰藉",
+      "englishName": "Solace",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r37",
+          "name": "格里特符文",
+          "number": 37
+        },
+        {
+          "code": "r37",
+          "name": "格里特符文",
+          "number": 37
+        },
+        {
+          "code": "r38",
+          "name": "德姆符文",
+          "number": 38
+        },
+        {
+          "code": "r39",
+          "name": "赫夫符文",
+          "number": 39
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "装备时获得5-10级净化光环光环",
+        "+3-4 所有技能",
+        "伤害強化 +300-350%",
+        "防御強化 +200-300%",
+        "体能 +10%",
+        "生命上限 +10%",
+        "所有最大抗性 +5%",
+        "魔法抗性 +20%",
+        "物理伤害减免 +5%"
+      ]
+    },
+    {
+      "id": 218,
+      "key": "Offering",
+      "name": "祭品",
+      "englishName": "Offering",
+      "original": false,
+      "level": 85,
+      "runes": [
+        {
+          "code": "r37",
+          "name": "格里特符文",
+          "number": 37
+        },
+        {
+          "code": "r37",
+          "name": "格里特符文",
+          "number": 37
+        },
+        {
+          "code": "r38",
+          "name": "德姆符文",
+          "number": 38
+        }
+      ],
+      "types": [
+        {
+          "code": "necritype",
+          "name": "死灵法师物品"
+        }
+      ],
+      "properties": [
+        "最大骷髅战士数量 +1-2",
+        "最大骷髅法师数量 +1-2",
+        "最大火魔像数量 +1-2",
+        "+3-4 所有技能",
+        "+5 至咒印：死亡 (全职业)",
+        "30% 格挡几率提高",
+        "体能 +10%",
+        "生命上限 -5%",
+        "物理伤害减免 +5%"
+      ]
+    },
+    {
+      "id": 219,
+      "key": "Humility",
+      "name": "谦逊",
+      "englishName": "Humility",
+      "original": false,
+      "level": 86,
+      "runes": [
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r22",
+          "name": "乌姆符文",
+          "number": 22
+        },
+        {
+          "code": "r06",
+          "name": "伊司符文",
+          "number": 6
+        },
+        {
+          "code": "r32",
+          "name": "查姆符文",
+          "number": 32
+        }
+      ],
+      "types": [
+        {
+          "code": "torsitype",
+          "name": "护甲"
+        }
+      ],
+      "properties": [
+        "永不毁损",
+        "装备时获得3-5级圣护光环光环",
+        "+1-4 至大吼 (全职业)",
+        "+1-4 至战斗命令 (全职业)",
+        "+1-4 至战斗指挥 (全职业)",
+        "+1-4 至冰霜甲 (全职业)",
+        "+10-15 至女武神 (全职业)",
+        "所有抗性 +20%",
+        "无法被冻结",
+        "+15% 受到的伤害转化为法力",
+        "+17 所需等级"
+      ]
+    },
+    {
+      "id": 220,
+      "key": "Starlight",
+      "name": "星芒之辉",
+      "englishName": "Starlight",
+      "original": false,
+      "level": 89,
+      "runes": [
+        {
+          "code": "r33",
+          "name": "萨德符文",
+          "number": 33
+        },
+        {
+          "code": "r15",
+          "name": "海尔符文",
+          "number": 15
+        },
+        {
+          "code": "r24",
+          "name": "伊司特符文",
+          "number": 24
+        },
+        {
+          "code": "r01",
+          "name": "艾尔符文",
+          "number": 1
+        }
+      ],
+      "types": [
+        {
+          "code": "weapitype",
+          "name": "任意武器"
+        },
+        {
+          "code": "armoitype",
+          "name": "任意护甲"
+        },
+        {
+          "code": "shlditype",
+          "name": "任意盾牌"
+        }
+      ],
+      "properties": [
+        "+3 所有技能",
+        "打击恢复速度 +20%",
+        "附加 40 - 100 点伤害",
+        "防御強化 +100-200%",
+        "物品生成为魔法或更高品质的几率 +150-300%",
+        "需求降低 80%",
+        "+20 所需等级",
+        "永不毁损（武器）",
+        "准确率 +50（武器）",
+        "物品生成为魔法或更高品质的几率 +30%（武器）",
+        "需求降低 20%（武器）",
+        "永不毁损（护甲）",
+        "防御 +15（护甲）",
+        "物品生成为魔法或更高品质的几率 +25%（护甲）",
+        "需求降低 15%（护甲）",
+        "永不毁损（盾牌）",
+        "防御 +15（盾牌）",
+        "物品生成为魔法或更高品质的几率 +25%（盾牌）",
+        "需求降低 15%（盾牌）"
+      ]
+    }
+  ]
+};

@@ -1,4 +1,4 @@
-name: 发布中文配方图鉴
+name: 发布中文配方与符文之语图鉴
 
 on:
   push:
@@ -22,12 +22,12 @@ jobs:
       - name: 验证数据和搜索
         run: |
           python -m unittest discover -s tests -v
-          node --test tests/search.test.js
+          node --test tests/search.test.js tests/runewords-search.test.js
       - name: 整理静态文件
         run: |
           mkdir -p _site/data
-          cp index.html styles.css lib.js app.js _site/
-          cp data/recipes.js data/recipes.json _site/data/
+          cp index.html runewords.html styles.css lib.js app.js runewords-lib.js runewords-app.js _site/
+          cp data/recipes.js data/recipes.json data/runewords.js data/runewords.json _site/data/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

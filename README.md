@@ -1,6 +1,8 @@
 # 赫拉迪姆中文配方图鉴
 
-暗黑破坏神重构版的非官方中文配方查询页，整理了方块合成、装备附魔和物品制作。可按材料、结果和类型搜索；数据来自[原始配方页面](https://wiki.d2r-reimagined.com/en/recipes/recipes)。
+**在线访问：[https://solairsvip.github.io/d2r-reimagined-recipes-zh/](https://solairsvip.github.io/d2r-reimagined-recipes-zh/)**
+
+[D2R Reimagined](https://www.d2r-reimagined.com/) 模组的非官方中文配方查询页，整理了方块合成、装备附魔和物品制作。可按材料、结果和类型搜索；数据来自[原始配方页面](https://wiki.d2r-reimagined.com/en/recipes/recipes)。
 
 直接用浏览器打开 `index.html` 即可使用，也可以部署到 GitHub Pages。所有网页文件和配方数据均使用相对路径，无需安装依赖或运行服务器。
 
